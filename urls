@@ -1,0 +1,560 @@
+-=[LINUX]=-
+
+https://github.com/torvalds/linux/commits/master.atom "~linux-current commits" kernel
+https://github.com/gregkh/linux/commits/master.atom "~linux-stable commits" kernel
+https://github.com/gregkh/linux/releases.atom "~linux-stable releases" kernel
+
+-=[TOOLZ]=-
+
+# adwaita-qt5
+https://github.com/FedoraQt/adwaita-qt/commits/master.atom "~adwaita-qt5 commits" tools
+https://github.com/FedoraQt/adwaita-qt/releases.atom "~adwaita-qt5 releases" tools
+
+# aircrack-ng
+https://github.com/aircrack-ng/aircrack-ng/commits/master.atom "~aircrack-ng commits" tools
+https://github.com/aircrack-ng/aircrack-ng/releases.atom "~aircrack-ng releases" tools
+
+# alsaequal
+https://github.com/bassdr/alsaequal/commits/master.atom "~alsaequal commits" tools
+https://github.com/bassdr/alsaequal/releases.atom "~alsaequal releases" tools
+
+# amass-bin
+https://github.com/OWASP/Amass/commits/master.atom "~amass-bin commits" tools
+https://github.com/OWASP/Amass/releases.atom "~amass-bin releases" tools
+
+# android-sdk-platform-tools-bin
+https://androidstudio.googleblog.com/feeds/posts/default "~android-sdk-platform-tools-bin" tools
+
+# apktool-bin
+https://github.com/iBotPeaches/Apktool/commits/master.atom "~apktool-bin commits" tools
+https://github.com/iBotPeaches/Apktool/releases.atom "~apktool-bin releases" tools
+
+# apulse
+https://github.com/i-rinat/apulse/commits/master.atom "~apulse commits" tools
+https://github.com/i-rinat/apulse/releases.atom "~apulse releases" tools
+
+# arp-scan
+https://github.com/royhills/arp-scan/commits/master.atom "~arp-scan commits" tools
+https://github.com/royhills/arp-scan/releases.atom "~arp-scan releases" tools
+
+
+# TODO: aspell-ru
+# TODO: caps
+
+# capstone
+https://github.com/aquynh/capstone/commits/master.atom "~capstone commits" tools
+https://github.com/aquynh/capstone/releases.atom "~capstone releases" tools
+
+# cowpatty
+https://github.com/joswr1ght/cowpatty/commits/master.atom "~cowpatty commits" tools
+https://github.com/joswr1ght/cowpatty/releases.atom "~cowpatty releases" tools
+
+# djvulibre
+https://sourceforge.net/p/djvu/djvulibre-git/feed "~djvulibre commits" tools
+https://sourceforge.net/projects/djvu/rss?path=/DjVuLibre "~djvulibre releases" tools
+
+# dkms
+https://github.com/dell/dkms/commits/master.atom "~dkms commits" tools
+https://github.com/dell/dkms/releases.atom "~dkms releases" tools
+
+# dmenu-4.5-chinarulezzz-scm
+https://github.com/chinarulezzz-de/dmenu-4.5-chinarulezzz/commits/master.atom "~dmenu-4.5-chinarulezzz-scm commits" tools
+
+# dracut
+#https://git.kernel.org/pub/scm/boot/dracut/dracut.git/atom/?h=master "~dracut commits" tools
+https://github.com/dracutdevs/dracut/commits/master.atom "~dracut commits" tools
+https://github.com/dracutdevs/dracut/releases.atom "~dracut releases" tools
+
+# dunst-scm
+https://github.com/knopwob/dunst/commits/master.atom "~dunst commits" tools
+https://github.com/knopwob/dunst/releases.atom "~dunst releases" tools
+
+# dwm-6.0-chinarulezzz-scm
+https://github.com/chinarulezzz-de/dwm-6.0-chinarulezzz/commits/master.atom "~dwm-6.0-chinarulezzz-scm commits" tools
+
+# eigen3
+https://gitlab.com/libeigen/eigen/-/commits/master?format=atom "~eigen3 commits" tools
+https://gitlab.com/libeigen/eigen/-/tags?format=atom "~eigen3 releases" tools
+
+# ettercap
+https://github.com/Ettercap/ettercap/commits/master.atom "~ettercap commits" tools
+https://github.com/Ettercap/ettercap/releases.atom "~ettercap releases" tools
+
+# extra-cmake-modules
+# TODO: add (volk)
+
+# ffscreencast
+# TODO: remove
+
+# font-awesome5
+# TODO: remove
+
+# gencc
+https://github.com/chinarulezzz/gencc/commits/master.atom "~gencc commits" tools
+https://github.com/chinarulezzz/gencc/releases.atom "~gencc releases" tools
+
+# girara
+https://github.com/pwmt/girara/commits/develop.atom "~girara (develop branch) commits" tools
+#https://git.pwmt.org/pwmt/girara/-/commits/develop?format=atom "~girara 
+https://github.com/pwmt/girara/releases.atom "~girara releases" tools
+
+# glxinfo
+# TODO: add (volk)
+
+# gmtp
+https://sourceforge.net/p/gmtp/code/feed/ "~gmtp commits" tools
+https://sourceforge.net/projects/gmtp/rss?path=/ "~gmtp releases" tools
+
+# grub2 (crux repo)
+https://crux.nu/gitweb/?p=ports/opt.git;a=atom;f=grub2 "~grub2 (crux repo) commits" tools
+# grub2-efi (crux repo)
+https://crux.nu/gitweb/?p=ports/opt.git;a=atom;f=grub2-efi "~grub2-efi (crux repo) commits" tools
+
+# gtk-theme-nordic
+# TODO: remove?
+
+# hashcat
+https://github.com/hashcat/hashcat/commits/master.atom "~hashcat commits" tools
+https://github.com/hashcat/hashcat/releases.atom "~hashcat releases" tools
+
+# hashcat-utils
+https://github.com/hashcat/hashcat-utils/commits/master.atom "~hashcat-utils commits" tools
+https://github.com/hashcat/hashcat-utils/releases.atom "~hashcat-utils releases" tools
+
+# hcxdumptool
+https://github.com/ZerBea/hcxdumptool/commits/master.atom "~hcxdumptool commits" tools
+https://github.com/ZerBea/hcxdumptool/releases.atom "~hcxdumptool releases" tools
+
+# hcxtools
+https://github.com/ZerBea/hcxtools/commits/master.atom "~hcxtools commits" tools
+https://github.com/ZerBea/hcxtools/releases.atom "~hcxtools releases" tools
+
+# hcxtool3
+# XXX: outdated
+
+# heimdall
+https://gitlab.com/BenjaminDobell/Heimdall/-/commits/master?format=atom "~heimdall commits" tools
+https://gitlab.com/BenjaminDobell/Heimdall/-/tags?format=atom "~heimdall releases" tools
+
+# hostapd
+# TODO: add
+
+# hwloc
+https://github.com/open-mpi/hwloc/commits/master.atom "~hwloc commits" tools
+https://github.com/open-mpi/hwloc/releases.atom "~hwloc releases" tools
+
+# i3status
+# TODO: add (volk)
+
+# inxi
+# TODO: add (volk)
+
+# irssi
+https://github.com/irssi/irssi/commits/master.atom "~irssi commits" tools
+https://github.com/irssi/irssi/releases.atom "~irssi releases" tools
+
+# iw
+https://git.kernel.org/pub/scm/linux/kernel/git/jberg/iw.git/atom/?h=master "~iw commits" tools
+# TODO: add releases feed
+# https://git.kernel.org/pub/scm/linux/kernel/git/jberg/iw.git (commits)
+# https://mirrors.edge.kernel.org/pub/software/network/iw/ (releases)
+
+# jadx-bin
+https://github.com/skylot/jadx/commits/master.atom "~jadx-bin commits" tools
+https://github.com/skylot/jadx/releases.atom "~jadx-bin releases" tools
+
+# jukebox
+https://github.com/chinarulezzz-de/jukebox/commits/jukebox.atom "~jukebox commits" tools
+https://github.com/chinarulezzz-de/jukebox/releases.atom "~jukebox releases" tools
+
+# karchive
+# TODO: add (volk)
+
+# karma
+https://github.com/chinarulezzz/karma/commits/master.atom "~karma commits" tools
+https://github.com/chinarulezzz/karma/releases.atom "~karma releases" tools
+
+# kcompletion
+# TODO: add (volk)
+
+# kconfig
+# TODO: add (volk)
+
+# kcoreaddons
+# TODO: add (volk)
+
+# kguiaddons
+# TODO: add (volk)
+
+# ki18n
+# TODO: add (volk)
+
+# kismet2016
+# XXX: outdated
+
+# kitemmodels
+# TODO: add (volk)
+
+# kitemviews
+# TODO: add (volk)
+
+# krita
+# TODO: add (volk)
+
+# kwidgetsaddons
+# TODO: add (volk)
+
+# kwindowssystem
+# TODO: add (volk)
+
+# lft
+# TODO: add
+# http://pwhois.org/lft/CHANGELOG
+
+# libmtp
+https://sourceforge.net/p/libmtp/code/feed/ "~libmtp commits" tools
+https://sourceforge.net/projects/libmtp/rss?path=/libmtp "~libmtp releases" tools
+
+# libtorrent-rasterbar
+https://github.com/arvidn/libtorrent/commits/master.atom "~libtorrent-rasterbar commits" tools
+https://github.com/arvidn/libtorrent/releases.atom "~libtorrent-rasterbar releases" tools
+
+# linux-zen
+# TODO:
+
+# macchanger
+https://github.com/alobbs/macchanger/commits/master.atom "~macchanger commits" tools
+https://github.com/alobbs/macchanger/releases.atom "~macchanger releases" tools
+
+# masscan
+https://github.com/robertdavidgraham/masscan/commits/master.atom "~masscan commits" tools
+https://github.com/robertdavidgraham/masscan/releases.atom "~masscan releases" tools
+
+# mdk3-scm
+# XXX: outdated
+
+# mdk4-scm
+https://github.com/aircrack-ng/mdk4/commits/master.atom "~mdk4 commits" tools
+https://github.com/aircrack-ng/mdk4/releases.atom "~mdk4 releases" tools
+
+# metasploit
+https://github.com/rapid7/metasploit-framework/commits/master.atom "~metasploit commits" tools
+https://github.com/rapid7/metasploit-framework/releases.atom "~metasploit releases" tools
+
+# mutt
+https://github.com/muttmua/mutt/commits/master.atom "~mutt commits" tools
+https://github.com/muttmua/mutt/releases.atom "~mutt releases" tools
+
+# ncpamixer
+# TODO: remove?
+
+# ncrack
+https://github.com/nmap/ncrack/commits/master.atom "~ncrack commits" tools
+https://github.com/nmap/ncrack/releases.atom "~ncrack releases" tools
+
+# net-tools-scm
+https://github.com/ecki/net-tools/commits/master.atom "~net-tools commits" tools
+https://github.com/ecki/net-tools/releases.atom "~net-tools releases" tools
+
+# newsboat
+#https://github.com/newsboat/newsboat/commits/master.atom "~newsboat commits" tools
+#https://github.com/newsboat/newsboat/releases.atom "~newsboat releases" tools
+# XXX: outdated
+
+# nmap
+https://github.com/nmap/nmap/commits/master.atom "~nmap commits" tools
+https://seclists.org/rss/nmap-announce.rss "~nmap announce" tools
+# XXX: nonexistent: https://github.com/nmap/nmap/releases.atom "~nmap releases" tools
+
+# nvidia-dkms
+# TODO: add
+
+# p5-cairo
+https://metacpan.org/feed/distribution/Cairo "~p5-cairo releases" tools
+
+# p5-exiftool
+https://metacpan.org/feed/distribution/Image-ExifTool "~p5-exiftool releases" tools
+
+# p5-extutils-depends
+https://metacpan.org/feed/distribution/ExtUtils-Depends "~p5-extutils-depends releases" tools
+
+# p5-extutils-pkgconfig
+https://metacpan.org/feed/distribution/ExtUtils-PkgConfig "~p5-extutils-pkgconfig releases" tools
+
+# p5-file-remove
+https://metacpan.org/feed/distribution/File-Remove "~p5-file-remove releases" tools
+
+# p5-glib
+https://metacpan.org/feed/distribution/Glib "~p5-glib releases" tools
+
+# p5-glib-object-introspection
+https://metacpan.org/feed/distribution/Glib-Object-Introspection "~p5-glib-object-instrospection releases" tools
+
+# p5-gstreamer1
+https://metacpan.org/feed/distribution/GStreamer1 "~p5-gstreamer1 releases" tools
+
+# p5-gtk2
+https://metacpan.org/feed/distribution/Gtk2 "~p5-gtk2 releases" tools
+
+# p5-gtk2-notify
+https://metacpan.org/feed/distribution/Gtk2-Notify "~p5-gtk2-notify releases" tools
+
+# p5-gtk2-trayicon
+https://metacpan.org/feed/distribution/Gtk2-TrayIcon "~p5-gtk2-trayicon releases" tools
+
+# p5-io-pty
+#https://metacpan.org/feed/distribution/IO-Tty "~p5-io-pty releases" tools
+# p5-ipc-run
+#https://metacpan.org/feed/distribution/IPC-Run "~p5-ipc-run releases" tools
+
+# p5-module-build
+https://metacpan.org/feed/distribution/Module-Build "~p5-module-build releases" tools
+
+# p5-module-install
+https://metacpan.org/feed/distribution/Module-Install "~p5-module-install releases" tools
+
+# p5-module-scandeps
+https://metacpan.org/feed/distribution/Module-ScanDeps "~p5-module-scandeps releases" tools
+
+# p5-net-dbus
+https://metacpan.org/feed/distribution/Net-DBus "~p5-net-dbus releases" tools
+
+# p5-pango
+https://metacpan.org/feed/distribution/Pango "~p5-pango releases" tools
+
+# p5-string-crc32
+https://metacpan.org/feed/distribution/String-CRC32 "~p5-string-crc32 releases" tools
+
+# p5-text-asciitable
+https://metacpan.org/feed/distribution/Text-ASCIITable "~p5-text-asciitable releases" tools
+
+# p5-xml-twig
+https://metacpan.org/feed/distribution/XML-Twig "~p5-xml-twig releases" tools
+
+# p5-yaml-tiny
+https://metacpan.org/feed/distribution/YAML-Tiny "~p5-yaml-tiny releases" tools
+
+# papirus-icon-theme
+#https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/commits/master.atom "~papirus-icon-theme commits" tools
+https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/releases.atom "~papirus-icon-theme releases" tools
+
+# pass
+https://github.com/zx2c4/password-store/commits/master.atom "~pass commits" tools
+https://github.com/zx2c4/password-store/releases.atom "~pass releases" tools
+
+# pax-utils
+https://github.com/gentoo/pax-utils/commits/master.atom "~pax-utils commits" tools
+https://github.com/gentoo/pax-utils/releases.atom "~pax-utils releases" tools
+
+# pcalc
+# TODO: add (volk)
+
+# pcsxr
+# TODO: add
+
+# pdfcrack
+https://sourceforge.net/projects/pdfcrack/rss?path=/pdfcrack "~pdfcrack releases" tools
+
+# perltidy
+https://metacpan.org/feed/distribution/Perl-Tidy "~perltidy releases" tools
+
+# phoneinfoga-bin
+# TODO: fix release source
+https://github.com/sundowndev/PhoneInfoga/releases.atom "~phoneinfoga-bin releases" tools
+
+# php-cgi
+https://crux.nu/gitweb/?p=ports/opt.git;a=atom;f=php-fastcgi "~php-cgi (php-fastcgi crux repo) commits" tools
+
+# pixiewps
+https://github.com/wiire-a/pixiewps/commits/master.atom "~pixiewps commits" tools
+https://github.com/wiire-a/pixiewps/releases.atom "~pixiewps releases" tools
+
+# pixload
+https://github.com/chinarulezzz/pixload/commits/master.atom "~pixload commits" tools
+https://github.com/chinarulezzz/pixload/releases.atom "~pixload releases" tools
+
+# polipo
+https://github.com/jech/polipo/commits/master.atom "~polipo commits" tools
+https://github.com/jech/polipo/releases.atom "~polipo releases" tools
+
+# ports-pubkeys
+# TODO: remove?
+
+# ports-via-git
+# TODO: remove?
+
+# ports-via-rsync
+# TODO: remove?
+
+# proxychains-ng
+https://github.com/rofl0r/proxychains-ng/commits/master.atom "~proxychains-ng commits" tools
+https://github.com/rofl0r/proxychains-ng/releases.atom "~proxychains-ng releases" tools
+
+# pulseaudio
+https://github.com/pulseaudio/pulseaudio/commits/master.atom "~pulseaudio commits" tools
+https://github.com/pulseaudio/pulseaudio/releases.atom "~pulseaudio releases" tools
+
+# pycryptodome
+https://github.com/Legrandin/pycryptodome/releases.atom "~pycryptodome(x) releases" tools
+
+# python3-pyelftools
+https://github.com/eliben/pyelftools/releases.atom "~python3-pyelftools releases" tools
+
+# qbittorrent
+https://github.com/qbittorrent/qBittorrent/commits/master.atom "~qbittorrent commits" tools
+https://github.com/qbittorrent/qBittorrent/releases.atom "~qbittorrent releases" tools
+
+# qt5ct
+https://sourceforge.net/projects/qt5ct/rss?path=/ "~qt5ct releases" tools
+
+# qt5-styleplugins
+https://github.com/qt/qtstyleplugins/commits/master.atom "~qt5-styleplugins commits" tools
+https://github.com/qt/qtstyleplugins/releases.atom "~qt5-styleplugins releases" tools
+
+# radare2
+https://github.com/radareorg/radare2/commits/master.atom "~radare2 commits" tools
+https://github.com/radareorg/radare2/releases.atom "~radare2 releases" tools
+
+# reaver-wps-t6x-scm
+https://github.com/t6x/reaver-wps-fork-t6x/commits/master.atom "~reaver-wps-t6x commits" tools
+https://github.com/t6x/reaver-wps-fork-t6x/releases.atom "~reaver-wps-t6x releases" tools
+
+# routersploit-scm
+https://github.com/threat9/routersploit/commits/master.atom "~routersploit commits" tools
+https://github.com/threat9/routersploit/releases.atom "~routersploit releases" tools
+
+# rtl8812au-dkms-scm
+https://github.com/aircrack-ng/rtl8812au/commits/v5.6.4.2.atom "~rtl8812au-dkms commits" tools
+https://github.com/aircrack-ng/rtl8812au/releases.atom "~rtl8812au-dkms releases" tools
+
+# scapy
+https://github.com/secdev/scapy/commits/master.atom "~scapy commits" tools
+https://github.com/secdev/scapy/releases.atom "~scapy releases" tools
+
+# shellcheck-bin
+https://github.com/koalaman/shellcheck/releases.atom "~shellcheck-bin releases" tools
+
+# slock
+# TODO: add
+
+# spoofcheck
+https://github.com/chinarulezzz/spoofcheck/commits/master.atom "~spoofcheck commits" tools
+https://github.com/chinarulezzz/spoofcheck/releases.atom "~spoofcheck releases" tools
+
+# sslyze
+https://github.com/nabla-c0d3/sslyze/commits/master.atom "~sslyze commits" tools
+https://github.com/nabla-c0d3/sslyze/releases.atom "~sslyze releases" tools
+
+# st
+# TODO: remove?
+
+# texinfo
+# TODO: remove (see contrib)
+
+# thc-hydra
+https://github.com/vanhauser-thc/thc-hydra/commits/master.atom "~thc-hydra commits" tools
+https://github.com/vanhauser-thc/thc-hydra/releases.atom "~thc-hydra releases" tools
+
+# tor
+https://github.com/torproject/tor/commits/master.atom "~tor commits" tools
+https://github.com/torproject/tor/releases.atom "~tor releases" tools
+
+# torsocks
+https://gitweb.torproject.org/torsocks.git/atom/?h=master "~torsocks commits" tools
+
+# toxcore
+https://github.com/TokTok/c-toxcore/commits/master.atom "~toxcore commits" tools
+https://github.com/TokTok/c-toxcore/releases.atom "~toxcore releases" tools
+
+# toxic
+https://github.com/JFreegman/toxic/commits/master.atom "~toxic commits" tools
+https://github.com/JFreegman/toxic/releases.atom "~toxic releases" tools
+
+# trinity-theme
+https://github.com/chinarulezzz-de/Trinity/commits/master.atom "~trinity-theme commits" tools
+https://github.com/chinarulezzz-de/Trinity/releases.atom "~trinity-theme releases" tools
+
+# ttf-terminus-font
+# TODO: add
+
+# uncristify
+#https://github.com/uncrustify/uncrustify/commits/master.atom "~uncrustify commits" tools
+#https://github.com/uncrustify/uncrustify/releases.atom "~uncrustify releases" tools
+# TODO: remove
+
+# v4l-utils
+# https://git.linuxtv.org/v4l-utils.git/
+# TODO: add
+
+# vifm
+https://github.com/vifm/vifm/commits/master.atom "~vifm commits" tools
+https://github.com/vifm/vifm/releases.atom "~vifm releases" tools
+
+# virtualbox
+# https://www.virtualbox.org/wiki/News
+# TODO: add
+
+# wireshark
+https://github.com/wireshark/wireshark/commits/master.atom "~wireshark commits" tools
+https://github.com/wireshark/wireshark/releases.atom "~wireshark releases" tools
+
+# wpa_supplicant
+# TODO: add
+
+# xautolock
+# TODO: add
+
+# xdotool
+# TODO: remove (see contrib)
+
+# xkbswitch
+https://github.com/chinarulezzz-de/xkbswitch/commits/master.atom "~xkbswitch commits" tools
+https://github.com/chinarulezzz-de/xkbswitch/releases.atom "~xkbswitch releases" tools
+
+# xorg-font-iosevka-ttf
+https://github.com/be5invis/Iosevka/releases.atom "~xorg-font-iosevka-ttf releases" tools
+
+# xxhash
+# TODO: add (volk)
+
+# yajl
+# TODO: add (volk)
+
+# zaproxy
+https://github.com/zaproxy/zaproxy/commits/develop.atom "~zaproxy commits" tools
+https://github.com/zaproxy/zaproxy/releases.atom "~zaproxy (&weekly) releases" tools
+
+# zathura
+https://github.com/pwmt/zathura/commits/develop.atom "~zathura commits" tools
+https://github.com/pwmt/zathura/releases.atom "~zathura releases" tools
+
+# zathura-djvu
+https://github.com/pwmt/zathura-djvu/commits/master.atom "~zathura-djvu commits" tools
+https://github.com/pwmt/zathura-djvu/releases.atom "~zathura-djvu releases" tools
+
+# zathura-pdf-poppler
+https://github.com/pwmt/zathura-pdf-poppler/commits/master.atom "~zathura-pdf-poppler commits" tools
+https://github.com/pwmt/zathura-pdf-poppler/releases.atom "~zathura-pdf-poppler releases" tools
+
+-=[VCCRUX]=-
+
+https://github.com/non-yellow-spot/vccrux/commits/master.atom "~vccrux/master commits" crux
+https://github.com/non-yellow-spot/vccrux/commits/3.5.atom "~vccrux/3.5 commits" crux
+
+-=[CRUX]=-
+
+https://crux.nu/gitweb/?p=ports/compat-32.git;a=atom "~ports/compat-32 commits" crux
+https://crux.nu/gitweb/?p=ports/contrib.git;a=atom "~ports/contrib commits" crux
+https://crux.nu/gitweb/?p=ports/core.git;a=atom "~ports/core commits" crux
+https://crux.nu/gitweb/?p=ports/opt.git;a=atom "~ports/opt commits" crux
+https://crux.nu/gitweb/?p=ports/xorg.git;a=atom "~ports/xorg commits" crux
+https://crux.nu/gitweb/?p=system/glibc.git;a=atom "~system/glibc commits" crux
+https://crux.nu/gitweb/?p=system/iso.git;a=atom "~system/iso commits" crux
+https://crux.nu/gitweb/?p=tools/httpup.git;a=atom "~tools/httpup commits" crux
+https://crux.nu/gitweb/?p=tools/mpup.git;a=atom "~tools/mpup commits" crux
+https://crux.nu/gitweb/?p=tools/pkg-get.git;a=atom "~tools/pkg-get commits" crux
+https://crux.nu/gitweb/?p=tools/pkgutils.git;a=atom "~tools/pkgutils commits" crux
+https://crux.nu/gitweb/?p=tools/prt-get.git;a=atom "~tools/prt-get commits" crux
+https://crux.nu/gitweb/?p=tools/prt-utils.git;a=atom "~tools/prt-utils commits" crux
+https://crux.nu/gitweb/?p=tools/start-stop-daemon.git;a=atom "~tools/start-stop-daemon commits" crux
+https://crux.nu/gitweb/?p=tools/webtools.git;a=atom "~tools/webtools commits" crux
