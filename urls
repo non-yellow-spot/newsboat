@@ -383,6 +383,9 @@ https://github.com/nabla-c0d3/sslyze/releases.atom "~sslyze releases" tools
 https://github.com/vanhauser-thc/thc-hydra/commits/master.atom "~thc-hydra-scm commits" tools
 https://github.com/vanhauser-thc/thc-hydra/releases.atom "~thc-hydra releases" tools
 
+# theharvester-scm
+https://github.com/laramies/theHarvester/commits/master.atom "~theharvester-scm commits" tools
+-
 # tor
 https://github.com/torproject/tor/commits/master.atom "~tor commits" tools
 https://github.com/torproject/tor/releases.atom "~tor releases" tools
@@ -401,6 +404,9 @@ https://github.com/JFreegman/toxic/releases.atom "~toxic releases" tools
 # trinity-theme
 https://github.com/chinarulezzz-de/Trinity/commits/master.atom "~trinity-theme commits" tools
 https://github.com/chinarulezzz-de/Trinity/releases.atom "~trinity-theme releases" tools
+
+# ttf-terminus-font
+http://www.ax86.net/?tempskin=_atom "~ttf-terminus-font releases" tools
 
 # uncrustify-scm
 https://github.com/uncrustify/uncrustify/commits/master.atom "~uncrustify-scm commits" tools
