@@ -11,6 +11,7 @@ https://github.com/FedoraQt/adwaita-qt/commits/master.atom "~adwaita-qt5 commits
 https://github.com/FedoraQt/adwaita-qt/releases.atom "~adwaita-qt5 releases" tools
 
 # aircrack-ng
+# aircrack-ng-scm
 https://github.com/aircrack-ng/aircrack-ng/commits/master.atom "~aircrack-ng commits" tools
 https://github.com/aircrack-ng/aircrack-ng/releases.atom "~aircrack-ng releases" tools
 
@@ -18,7 +19,7 @@ https://github.com/aircrack-ng/aircrack-ng/releases.atom "~aircrack-ng releases"
 https://github.com/bassdr/alsaequal/commits/master.atom "~alsaequal commits" tools
 https://github.com/bassdr/alsaequal/releases.atom "~alsaequal releases" tools
 
-# amass-bin
+# amass
 https://github.com/OWASP/Amass/commits/master.atom "~amass-bin commits" tools
 https://github.com/OWASP/Amass/releases.atom "~amass-bin releases" tools
 
@@ -36,10 +37,6 @@ https://github.com/i-rinat/apulse/releases.atom "~apulse releases" tools
 # arp-scan
 https://github.com/royhills/arp-scan/commits/master.atom "~arp-scan commits" tools
 https://github.com/royhills/arp-scan/releases.atom "~arp-scan releases" tools
-
-
-# TODO: aspell-ru
-# TODO: caps
 
 # capstone
 https://github.com/aquynh/capstone/commits/master.atom "~capstone commits" tools
@@ -80,15 +77,6 @@ https://gitlab.com/libeigen/eigen/-/tags?format=atom "~eigen3 releases" tools
 https://github.com/Ettercap/ettercap/commits/master.atom "~ettercap commits" tools
 https://github.com/Ettercap/ettercap/releases.atom "~ettercap releases" tools
 
-# extra-cmake-modules
-# TODO: add (volk)
-
-# ffscreencast
-# TODO: remove
-
-# font-awesome5
-# TODO: remove
-
 # gencc
 https://github.com/chinarulezzz/gencc/commits/master.atom "~gencc commits" tools
 https://github.com/chinarulezzz/gencc/releases.atom "~gencc releases" tools
@@ -98,9 +86,6 @@ https://github.com/pwmt/girara/commits/develop.atom "~girara (develop branch) co
 #https://git.pwmt.org/pwmt/girara/-/commits/develop?format=atom "~girara 
 https://github.com/pwmt/girara/releases.atom "~girara releases" tools
 
-# glxinfo
-# TODO: add (volk)
-
 # gmtp
 https://sourceforge.net/p/gmtp/code/feed/ "~gmtp commits" tools
 https://sourceforge.net/projects/gmtp/rss?path=/ "~gmtp releases" tools
@@ -109,9 +94,6 @@ https://sourceforge.net/projects/gmtp/rss?path=/ "~gmtp releases" tools
 https://crux.nu/gitweb/?p=ports/opt.git;a=atom;f=grub2 "~grub2 (crux repo) commits" tools
 # grub2-efi (crux repo)
 https://crux.nu/gitweb/?p=ports/opt.git;a=atom;f=grub2-efi "~grub2-efi (crux repo) commits" tools
-
-# gtk-theme-nordic
-# TODO: remove?
 
 # hashcat
 https://github.com/hashcat/hashcat/commits/master.atom "~hashcat commits" tools
@@ -129,25 +111,16 @@ https://github.com/ZerBea/hcxdumptool/releases.atom "~hcxdumptool releases" tool
 https://github.com/ZerBea/hcxtools/commits/master.atom "~hcxtools commits" tools
 https://github.com/ZerBea/hcxtools/releases.atom "~hcxtools releases" tools
 
-# hcxtool3
-# XXX: outdated
+# hcxtools3 (using outdated version)
+# XXX
 
 # heimdall
 https://gitlab.com/BenjaminDobell/Heimdall/-/commits/master?format=atom "~heimdall commits" tools
 https://gitlab.com/BenjaminDobell/Heimdall/-/tags?format=atom "~heimdall releases" tools
 
-# hostapd
-# TODO: add
-
 # hwloc
 https://github.com/open-mpi/hwloc/commits/master.atom "~hwloc commits" tools
 https://github.com/open-mpi/hwloc/releases.atom "~hwloc releases" tools
-
-# i3status
-# TODO: add (volk)
-
-# inxi
-# TODO: add (volk)
 
 # irssi
 https://github.com/irssi/irssi/commits/master.atom "~irssi commits" tools
@@ -167,49 +140,12 @@ https://github.com/skylot/jadx/releases.atom "~jadx-bin releases" tools
 https://github.com/chinarulezzz-de/jukebox/commits/jukebox.atom "~jukebox commits" tools
 https://github.com/chinarulezzz-de/jukebox/releases.atom "~jukebox releases" tools
 
-# karchive
-# TODO: add (volk)
-
 # karma
 https://github.com/chinarulezzz/karma/commits/master.atom "~karma commits" tools
 https://github.com/chinarulezzz/karma/releases.atom "~karma releases" tools
 
-# kcompletion
-# TODO: add (volk)
-
-# kconfig
-# TODO: add (volk)
-
-# kcoreaddons
-# TODO: add (volk)
-
-# kguiaddons
-# TODO: add (volk)
-
-# ki18n
-# TODO: add (volk)
-
-# kismet2016
-# XXX: outdated
-
-# kitemmodels
-# TODO: add (volk)
-
-# kitemviews
-# TODO: add (volk)
-
-# krita
-# TODO: add (volk)
-
-# kwidgetsaddons
-# TODO: add (volk)
-
-# kwindowssystem
-# TODO: add (volk)
-
-# lft
-# TODO: add
-# http://pwhois.org/lft/CHANGELOG
+# kismet2016 (using outdated version)
+# XXX
 
 # libmtp
 https://sourceforge.net/p/libmtp/code/feed/ "~libmtp commits" tools
@@ -219,19 +155,17 @@ https://sourceforge.net/projects/libmtp/rss?path=/libmtp "~libmtp releases" tool
 https://github.com/arvidn/libtorrent/commits/master.atom "~libtorrent-rasterbar commits" tools
 https://github.com/arvidn/libtorrent/releases.atom "~libtorrent-rasterbar releases" tools
 
-# linux-zen
-# TODO:
-
 # macchanger
 https://github.com/alobbs/macchanger/commits/master.atom "~macchanger commits" tools
 https://github.com/alobbs/macchanger/releases.atom "~macchanger releases" tools
 
 # masscan
+# masscan-scm
 https://github.com/robertdavidgraham/masscan/commits/master.atom "~masscan commits" tools
 https://github.com/robertdavidgraham/masscan/releases.atom "~masscan releases" tools
 
-# mdk3-scm
-# XXX: outdated
+# mdk3-scm (using outdated version)
+# XXX
 
 # mdk4-scm
 https://github.com/aircrack-ng/mdk4/commits/master.atom "~mdk4 commits" tools
@@ -245,9 +179,6 @@ https://github.com/rapid7/metasploit-framework/releases.atom "~metasploit releas
 https://github.com/muttmua/mutt/commits/master.atom "~mutt commits" tools
 https://github.com/muttmua/mutt/releases.atom "~mutt releases" tools
 
-# ncpamixer
-# TODO: remove?
-
 # ncrack
 https://github.com/nmap/ncrack/commits/master.atom "~ncrack commits" tools
 https://github.com/nmap/ncrack/releases.atom "~ncrack releases" tools
@@ -256,18 +187,16 @@ https://github.com/nmap/ncrack/releases.atom "~ncrack releases" tools
 https://github.com/ecki/net-tools/commits/master.atom "~net-tools commits" tools
 https://github.com/ecki/net-tools/releases.atom "~net-tools releases" tools
 
-# newsboat
+# newsboat (using outdated version)
 #https://github.com/newsboat/newsboat/commits/master.atom "~newsboat commits" tools
 #https://github.com/newsboat/newsboat/releases.atom "~newsboat releases" tools
-# XXX: outdated
+# XXX
 
 # nmap
+# nmap-scm
 https://github.com/nmap/nmap/commits/master.atom "~nmap commits" tools
 https://seclists.org/rss/nmap-announce.rss "~nmap announce" tools
 # XXX: nonexistent: https://github.com/nmap/nmap/releases.atom "~nmap releases" tools
-
-# nvidia-dkms
-# TODO: add
 
 # p5-cairo
 https://metacpan.org/feed/distribution/Cairo "~p5-cairo releases" tools
@@ -346,12 +275,6 @@ https://github.com/zx2c4/password-store/releases.atom "~pass releases" tools
 https://github.com/gentoo/pax-utils/commits/master.atom "~pax-utils commits" tools
 https://github.com/gentoo/pax-utils/releases.atom "~pax-utils releases" tools
 
-# pcalc
-# TODO: add (volk)
-
-# pcsxr
-# TODO: add
-
 # pdfcrack
 https://sourceforge.net/projects/pdfcrack/rss?path=/pdfcrack "~pdfcrack releases" tools
 
@@ -394,7 +317,8 @@ https://github.com/rofl0r/proxychains-ng/releases.atom "~proxychains-ng releases
 https://github.com/pulseaudio/pulseaudio/commits/master.atom "~pulseaudio commits" tools
 https://github.com/pulseaudio/pulseaudio/releases.atom "~pulseaudio releases" tools
 
-# pycryptodome
+# python3-pycryptodome
+# python3-pycryptodomex
 https://github.com/Legrandin/pycryptodome/releases.atom "~pycryptodome(x) releases" tools
 
 # python3-pyelftools
@@ -434,9 +358,6 @@ https://github.com/secdev/scapy/releases.atom "~scapy releases" tools
 # shellcheck-bin
 https://github.com/koalaman/shellcheck/releases.atom "~shellcheck-bin releases" tools
 
-# slock
-# TODO: add
-
 # spoofcheck
 https://github.com/chinarulezzz/spoofcheck/commits/master.atom "~spoofcheck commits" tools
 https://github.com/chinarulezzz/spoofcheck/releases.atom "~spoofcheck releases" tools
@@ -445,13 +366,8 @@ https://github.com/chinarulezzz/spoofcheck/releases.atom "~spoofcheck releases" 
 https://github.com/nabla-c0d3/sslyze/commits/master.atom "~sslyze commits" tools
 https://github.com/nabla-c0d3/sslyze/releases.atom "~sslyze releases" tools
 
-# st
-# TODO: remove?
-
-# texinfo
-# TODO: remove (see contrib)
-
 # thc-hydra
+# thc-hydra-scm
 https://github.com/vanhauser-thc/thc-hydra/commits/master.atom "~thc-hydra commits" tools
 https://github.com/vanhauser-thc/thc-hydra/releases.atom "~thc-hydra releases" tools
 
@@ -474,38 +390,20 @@ https://github.com/JFreegman/toxic/releases.atom "~toxic releases" tools
 https://github.com/chinarulezzz-de/Trinity/commits/master.atom "~trinity-theme commits" tools
 https://github.com/chinarulezzz-de/Trinity/releases.atom "~trinity-theme releases" tools
 
-# ttf-terminus-font
-# TODO: add
-
-# uncristify
-#https://github.com/uncrustify/uncrustify/commits/master.atom "~uncrustify commits" tools
-#https://github.com/uncrustify/uncrustify/releases.atom "~uncrustify releases" tools
-# TODO: remove
+# uncristify-scm
+https://github.com/uncrustify/uncrustify/commits/master.atom "~uncrustify commits" tools
+https://github.com/uncrustify/uncrustify/releases.atom "~uncrustify releases" tools
 
 # v4l-utils
-# https://git.linuxtv.org/v4l-utils.git/
-# TODO: add
+https://git.linuxtv.org/v4l-utils.git/atom/?h=master "~v4l-utils commits" tools
 
 # vifm
 https://github.com/vifm/vifm/commits/master.atom "~vifm commits" tools
 https://github.com/vifm/vifm/releases.atom "~vifm releases" tools
 
-# virtualbox
-# https://www.virtualbox.org/wiki/News
-# TODO: add
-
 # wireshark
 https://github.com/wireshark/wireshark/commits/master.atom "~wireshark commits" tools
 https://github.com/wireshark/wireshark/releases.atom "~wireshark releases" tools
-
-# wpa_supplicant
-# TODO: add
-
-# xautolock
-# TODO: add
-
-# xdotool
-# TODO: remove (see contrib)
 
 # xkbswitch
 https://github.com/chinarulezzz-de/xkbswitch/commits/master.atom "~xkbswitch commits" tools
@@ -514,13 +412,8 @@ https://github.com/chinarulezzz-de/xkbswitch/releases.atom "~xkbswitch releases"
 # xorg-font-iosevka-ttf
 https://github.com/be5invis/Iosevka/releases.atom "~xorg-font-iosevka-ttf releases" tools
 
-# xxhash
-# TODO: add (volk)
-
-# yajl
-# TODO: add (volk)
-
-# zaproxy
+# zaproxy-bin
+# zaproxy-weekly-bin
 https://github.com/zaproxy/zaproxy/commits/develop.atom "~zaproxy commits" tools
 https://github.com/zaproxy/zaproxy/releases.atom "~zaproxy (&weekly) releases" tools
 
