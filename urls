@@ -12,7 +12,7 @@ https://github.com/FedoraQt/adwaita-qt/releases.atom "~adwaita-qt5 releases" too
 
 # aircrack-ng
 # aircrack-ng-scm
-https://github.com/aircrack-ng/aircrack-ng/commits/master.atom "~aircrack-ng commits" tools
+https://github.com/aircrack-ng/aircrack-ng/commits/master.atom "~aircrack-ng-scm commits" tools
 https://github.com/aircrack-ng/aircrack-ng/releases.atom "~aircrack-ng releases" tools
 
 # alsaequal
@@ -63,8 +63,8 @@ https://github.com/dracutdevs/dracut/commits/master.atom "~dracut commits" tools
 https://github.com/dracutdevs/dracut/releases.atom "~dracut releases" tools
 
 # dunst-scm
-https://github.com/knopwob/dunst/commits/master.atom "~dunst commits" tools
-https://github.com/knopwob/dunst/releases.atom "~dunst releases" tools
+https://github.com/knopwob/dunst/commits/master.atom "~dunst-scm commits" tools
+#https://github.com/knopwob/dunst/releases.atom "~dunst releases" tools
 
 # dwm-6.0-chinarulezzz-scm
 https://github.com/chinarulezzz-de/dwm-6.0-chinarulezzz/commits/master.atom "~dwm-6.0-chinarulezzz-scm commits" tools
@@ -122,6 +122,10 @@ https://gitlab.com/BenjaminDobell/Heimdall/-/tags?format=atom "~heimdall release
 https://github.com/open-mpi/hwloc/commits/master.atom "~hwloc commits" tools
 https://github.com/open-mpi/hwloc/releases.atom "~hwloc releases" tools
 
+# ipobfuscator
+#https://github.com/chinarulezzz/IPObfuscator/commits/master.atom "~ipobfuscator commits" tools
+https://github.com/chinarulezzz/IPObfuscator/releases.atom "~ipobfuscator releases" tools
+
 # irssi
 https://github.com/irssi/irssi/commits/master.atom "~irssi commits" tools
 https://github.com/irssi/irssi/releases.atom "~irssi releases" tools
@@ -135,6 +139,10 @@ https://git.kernel.org/pub/scm/linux/kernel/git/jberg/iw.git/atom/?h=master "~iw
 # jadx-bin
 https://github.com/skylot/jadx/commits/master.atom "~jadx-bin commits" tools
 https://github.com/skylot/jadx/releases.atom "~jadx-bin releases" tools
+
+# joomscan-scm
+https://github.com/rezasp/joomscan/commits/master.atom "~joomscan-scm commits" tools
+#https://github.com/rezasp/joomscan/releases.atom "~joomscan releases" tools
 
 # jukebox
 https://github.com/chinarulezzz-de/jukebox/commits/jukebox.atom "~jukebox commits" tools
@@ -161,15 +169,15 @@ https://github.com/alobbs/macchanger/releases.atom "~macchanger releases" tools
 
 # masscan
 # masscan-scm
-https://github.com/robertdavidgraham/masscan/commits/master.atom "~masscan commits" tools
+https://github.com/robertdavidgraham/masscan/commits/master.atom "~masscan-scm commits" tools
 https://github.com/robertdavidgraham/masscan/releases.atom "~masscan releases" tools
 
 # mdk3-scm (using outdated version)
 # XXX
 
 # mdk4-scm
-https://github.com/aircrack-ng/mdk4/commits/master.atom "~mdk4 commits" tools
-https://github.com/aircrack-ng/mdk4/releases.atom "~mdk4 releases" tools
+https://github.com/aircrack-ng/mdk4/commits/master.atom "~mdk4-scm commits" tools
+#https://github.com/aircrack-ng/mdk4/releases.atom "~mdk4 releases" tools
 
 # metasploit
 https://github.com/rapid7/metasploit-framework/commits/master.atom "~metasploit commits" tools
@@ -184,17 +192,21 @@ https://github.com/nmap/ncrack/commits/master.atom "~ncrack commits" tools
 https://github.com/nmap/ncrack/releases.atom "~ncrack releases" tools
 
 # net-tools-scm
-https://github.com/ecki/net-tools/commits/master.atom "~net-tools commits" tools
-https://github.com/ecki/net-tools/releases.atom "~net-tools releases" tools
+https://github.com/ecki/net-tools/commits/master.atom "~net-tools-scm commits" tools
+#https://github.com/ecki/net-tools/releases.atom "~net-tools releases" tools
 
 # newsboat (using outdated version)
 #https://github.com/newsboat/newsboat/commits/master.atom "~newsboat commits" tools
 #https://github.com/newsboat/newsboat/releases.atom "~newsboat releases" tools
 # XXX
 
+# nikto-scm
+https://github.com/sullo/nikto/commits/master.atom "~nikto-scm commits" tools
+#https://github.com/sullo/nikto/releases.atom "~nikto releases" tools
+
 # nmap
 # nmap-scm
-https://github.com/nmap/nmap/commits/master.atom "~nmap commits" tools
+https://github.com/nmap/nmap/commits/master.atom "~nmap-scm commits" tools
 https://seclists.org/rss/nmap-announce.rss "~nmap announce" tools
 # XXX: nonexistent: https://github.com/nmap/nmap/releases.atom "~nmap releases" tools
 
@@ -340,16 +352,16 @@ https://github.com/radareorg/radare2/commits/master.atom "~radare2 commits" tool
 https://github.com/radareorg/radare2/releases.atom "~radare2 releases" tools
 
 # reaver-wps-t6x-scm
-https://github.com/t6x/reaver-wps-fork-t6x/commits/master.atom "~reaver-wps-t6x commits" tools
-https://github.com/t6x/reaver-wps-fork-t6x/releases.atom "~reaver-wps-t6x releases" tools
+https://github.com/t6x/reaver-wps-fork-t6x/commits/master.atom "~reaver-wps-t6x-scm commits" tools
+#https://github.com/t6x/reaver-wps-fork-t6x/releases.atom "~reaver-wps-t6x releases" tools
 
 # routersploit-scm
-https://github.com/threat9/routersploit/commits/master.atom "~routersploit commits" tools
-https://github.com/threat9/routersploit/releases.atom "~routersploit releases" tools
+https://github.com/threat9/routersploit/commits/master.atom "~routersploit-scm commits" tools
+#https://github.com/threat9/routersploit/releases.atom "~routersploit releases" tools
 
 # rtl8812au-dkms-scm
-https://github.com/aircrack-ng/rtl8812au/commits/v5.6.4.2.atom "~rtl8812au-dkms commits" tools
-https://github.com/aircrack-ng/rtl8812au/releases.atom "~rtl8812au-dkms releases" tools
+https://github.com/aircrack-ng/rtl8812au/commits/v5.6.4.2.atom "~rtl8812au-dkms-scm commits" tools
+#https://github.com/aircrack-ng/rtl8812au/releases.atom "~rtl8812au-dkms releases" tools
 
 # scapy
 https://github.com/secdev/scapy/commits/master.atom "~scapy commits" tools
@@ -368,7 +380,7 @@ https://github.com/nabla-c0d3/sslyze/releases.atom "~sslyze releases" tools
 
 # thc-hydra
 # thc-hydra-scm
-https://github.com/vanhauser-thc/thc-hydra/commits/master.atom "~thc-hydra commits" tools
+https://github.com/vanhauser-thc/thc-hydra/commits/master.atom "~thc-hydra-scm commits" tools
 https://github.com/vanhauser-thc/thc-hydra/releases.atom "~thc-hydra releases" tools
 
 # tor
@@ -390,9 +402,9 @@ https://github.com/JFreegman/toxic/releases.atom "~toxic releases" tools
 https://github.com/chinarulezzz-de/Trinity/commits/master.atom "~trinity-theme commits" tools
 https://github.com/chinarulezzz-de/Trinity/releases.atom "~trinity-theme releases" tools
 
-# uncristify-scm
-https://github.com/uncrustify/uncrustify/commits/master.atom "~uncrustify commits" tools
-https://github.com/uncrustify/uncrustify/releases.atom "~uncrustify releases" tools
+# uncrustify-scm
+https://github.com/uncrustify/uncrustify/commits/master.atom "~uncrustify-scm commits" tools
+#https://github.com/uncrustify/uncrustify/releases.atom "~uncrustify releases" tools
 
 # v4l-utils
 https://git.linuxtv.org/v4l-utils.git/atom/?h=master "~v4l-utils commits" tools
@@ -404,6 +416,10 @@ https://github.com/vifm/vifm/releases.atom "~vifm releases" tools
 # wireshark
 https://github.com/wireshark/wireshark/commits/master.atom "~wireshark commits" tools
 https://github.com/wireshark/wireshark/releases.atom "~wireshark releases" tools
+
+# wpscan
+https://github.com/wpscanteam/wpscan/commits/master.atom "~wpscan commits" tools
+https://github.com/wpscanteam/wpscan/releases.atom "~wpscan releases" tools
 
 # xkbswitch
 https://github.com/chinarulezzz-de/xkbswitch/commits/master.atom "~xkbswitch commits" tools
