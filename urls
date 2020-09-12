@@ -385,7 +385,7 @@ https://github.com/vanhauser-thc/thc-hydra/releases.atom "~thc-hydra releases" t
 
 # theharvester-scm
 https://github.com/laramies/theHarvester/commits/master.atom "~theharvester-scm commits" tools
--
+
 # tor
 https://github.com/torproject/tor/commits/master.atom "~tor commits" tools
 https://github.com/torproject/tor/releases.atom "~tor releases" tools
