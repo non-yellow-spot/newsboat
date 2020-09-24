@@ -38,9 +38,19 @@ https://github.com/i-rinat/apulse/releases.atom "~apulse releases" tools
 https://github.com/royhills/arp-scan/commits/master.atom "~arp-scan commits" tools
 https://github.com/royhills/arp-scan/releases.atom "~arp-scan releases" tools
 
+# arpspoof
+https://github.com/byt3bl33d3r/arpspoof/commits/master.atom "~arpspoof commits" tools
+
+# asleap
+https://github.com/funtastix/asleap/commits/master.atom "~asleap commits (funtastix fork)" tools
+
 # capstone
 https://github.com/aquynh/capstone/commits/master.atom "~capstone commits" tools
 https://github.com/aquynh/capstone/releases.atom "~capstone releases" tools
+
+# captal
+https://github.com/chinarulezzz/captal/commits/master.atom "~captal commits" tools
+https://github.com/chinarulezzz/captal/releases.atom "~captal releases" tools
 
 # cowpatty
 https://github.com/joswr1ght/cowpatty/commits/master.atom "~cowpatty commits" tools
@@ -374,6 +384,10 @@ https://github.com/koalaman/shellcheck/releases.atom "~shellcheck-bin releases" 
 https://github.com/chinarulezzz/spoofcheck/commits/master.atom "~spoofcheck commits" tools
 https://github.com/chinarulezzz/spoofcheck/releases.atom "~spoofcheck releases" tools
 
+# sslsplit
+https://github.com/droe/sslsplit/commits/develop.atom "~sslsplit commits" tools
+https://github.com/droe/sslsplit/releases.atom "~sslsplit releases" tools
+
 # sslyze
 https://github.com/nabla-c0d3/sslyze/commits/master.atom "~sslyze commits" tools
 https://github.com/nabla-c0d3/sslyze/releases.atom "~sslyze releases" tools
@@ -422,6 +436,10 @@ https://github.com/vifm/vifm/releases.atom "~vifm releases" tools
 # wireshark
 https://github.com/wireshark/wireshark/commits/master.atom "~wireshark commits" tools
 https://github.com/wireshark/wireshark/releases.atom "~wireshark releases" tools
+
+# wordlistctl
+https://github.com/BlackArch/wordlistctl/commits/master.atom "~wordlistctl commits" tools
+https://github.com/BlackArch/wordlistctl/releases.atom "~wordlistctl releases" tools
 
 # wpscan
 https://github.com/wpscanteam/wpscan/commits/master.atom "~wpscan commits" tools
