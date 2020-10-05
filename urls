@@ -44,6 +44,10 @@ https://github.com/byt3bl33d3r/arpspoof/commits/master.atom "~arpspoof commits" 
 # asleap
 https://github.com/funtastix/asleap/commits/master.atom "~asleap commits (funtastix fork)" tools
 
+# bully
+https://github.com/aanarchyy/bully/commits/master.atom "~bully commits" tools
+https://github.com/aanarchyy/bully/releases.atom "~bully releases" tools
+
 # capstone
 https://github.com/aquynh/capstone/commits/master.atom "~capstone commits" tools
 https://github.com/aquynh/capstone/releases.atom "~capstone releases" tools
@@ -270,6 +274,15 @@ https://metacpan.org/feed/distribution/Module-ScanDeps "~p5-module-scandeps rele
 # p5-net-dbus
 https://metacpan.org/feed/distribution/Net-DBus "~p5-net-dbus releases" tools
 
+# p5-netpacket
+https://metacpan.org/feed/distribution/NetPacket "~p5-netpacket releases" tools
+
+# p5-net-pcap
+https://metacpan.org/feed/distribution/Net-Pcap "~p5-net-pcap releases" tools
+
+# p5-net-radius
+https://metacpan.org/feed/distribution/Net-Radius "~p5-net-radius releases" tools
+
 # p5-pango
 https://metacpan.org/feed/distribution/Pango "~p5-pango releases" tools
 
@@ -285,6 +298,10 @@ https://metacpan.org/feed/distribution/XML-Twig "~p5-xml-twig releases" tools
 # p5-yaml-tiny
 https://metacpan.org/feed/distribution/YAML-Tiny "~p5-yaml-tiny releases" tools
 
+# padbuster
+https://github.com/gw0/PadBuster/commits/master.atom "~padbuster commits" tools
+https://github.com/gw0/PadBuster/releases.atom "~padbuster releases" tools
+
 # papirus-icon-theme
 #https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/commits/master.atom "~papirus-icon-theme commits" tools
 https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/releases.atom "~papirus-icon-theme releases" tools
@@ -299,6 +316,9 @@ https://github.com/gentoo/pax-utils/releases.atom "~pax-utils releases" tools
 
 # pdfcrack
 https://sourceforge.net/projects/pdfcrack/rss?path=/pdfcrack "~pdfcrack releases" tools
+
+# pentestuff
+https://github.com/chinarulezzz/pentestuff/commits/master.atom "~pentestuff commits" tools
 
 # perltidy
 https://metacpan.org/feed/distribution/Perl-Tidy "~perltidy releases" tools
