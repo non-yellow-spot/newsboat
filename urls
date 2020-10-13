@@ -60,6 +60,9 @@ https://github.com/chinarulezzz/captal/releases.atom "~captal releases" tools
 https://github.com/joswr1ght/cowpatty/commits/master.atom "~cowpatty commits" tools
 https://github.com/joswr1ght/cowpatty/releases.atom "~cowpatty releases" tools
 
+# dhcp-spoof
+# non-continued program.
+
 # djvulibre
 https://sourceforge.net/p/djvu/djvulibre-git/feed "~djvulibre commits" tools
 https://sourceforge.net/projects/djvu/rss?path=/DjVuLibre "~djvulibre releases" tools
@@ -131,6 +134,9 @@ https://github.com/ZerBea/hcxtools/releases.atom "~hcxtools releases" tools
 # heimdall
 https://gitlab.com/BenjaminDobell/Heimdall/-/commits/master?format=atom "~heimdall commits" tools
 https://gitlab.com/BenjaminDobell/Heimdall/-/tags?format=atom "~heimdall releases" tools
+
+# holehe-scm
+https://github.com/megadose/holehe/commits/master.atom "~holehe-scm commits" tools
 
 # hwloc
 https://github.com/open-mpi/hwloc/commits/master.atom "~hwloc commits" tools
@@ -359,12 +365,24 @@ https://github.com/rofl0r/proxychains-ng/releases.atom "~proxychains-ng releases
 https://github.com/pulseaudio/pulseaudio/commits/master.atom "~pulseaudio commits" tools
 https://github.com/pulseaudio/pulseaudio/releases.atom "~pulseaudio releases" tools
 
+# python3-html5lib
+https://github.com/html5lib/html5lib-python/releases.atom "~python3-html5lib releases" tools
+
+# python3-mechanize
+https://github.com/python-mechanize/mechanize/releases.atom "~python3-mechanize releases" tools
+
 # python3-pycryptodome
 # python3-pycryptodomex
 https://github.com/Legrandin/pycryptodome/releases.atom "~pycryptodome(x) releases" tools
 
 # python3-pyelftools
 https://github.com/eliben/pyelftools/releases.atom "~python3-pyelftools releases" tools
+
+# python3-tqdm
+https://github.com/tqdm/tqdm/releases.atom "~python3-tqdm releases" tools
+
+# python3-webencodings
+https://github.com/gsnedders/python-webencodings/releases.atom "~python3-webencodings releases" tools
 
 # qbittorrent
 https://github.com/qbittorrent/qBittorrent/commits/master.atom "~qbittorrent commits" tools
