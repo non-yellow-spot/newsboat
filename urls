@@ -139,6 +139,10 @@ https://github.com/ZerBea/hcxtools/releases.atom "~hcxtools releases" tools
 https://gitlab.com/BenjaminDobell/Heimdall/-/commits/master?format=atom "~heimdall commits" tools
 https://gitlab.com/BenjaminDobell/Heimdall/-/tags?format=atom "~heimdall releases" tools
 
+# hexchat
+https://github.com/hexchat/hexchat/commits/master.atom "~hexchat commits" tools
+https://github.com/hexchat/hexchat/releases.atom "~hexchat releases" tools
+
 # holehe-scm
 https://github.com/megadose/holehe/commits/master.atom "~holehe-scm commits" tools
 
@@ -439,6 +443,10 @@ https://github.com/droe/sslsplit/releases.atom "~sslsplit releases" tools
 # sslyze
 https://github.com/nabla-c0d3/sslyze/commits/master.atom "~sslyze commits" tools
 https://github.com/nabla-c0d3/sslyze/releases.atom "~sslyze releases" tools
+
+# sylpheed
+https://github.com/jan0sch/sylpheed/commits/master.atom "~sylpheed commits" tools
+https://github.com/jan0sch/sylpheed/releases.atom "~sylpheed releases" tools
 
 # thc-hydra
 # thc-hydra-scm
