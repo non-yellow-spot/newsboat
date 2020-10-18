@@ -481,10 +481,6 @@ https://github.com/uncrustify/uncrustify/commits/master.atom "~uncrustify-scm co
 # v4l-utils
 https://git.linuxtv.org/v4l-utils.git/atom/?h=master "~v4l-utils commits" tools
 
-# vifm
-https://github.com/vifm/vifm/commits/master.atom "~vifm commits" tools
-https://github.com/vifm/vifm/releases.atom "~vifm releases" tools
-
 # wireshark
 https://github.com/wireshark/wireshark/commits/master.atom "~wireshark commits" tools
 https://github.com/wireshark/wireshark/releases.atom "~wireshark releases" tools
@@ -492,6 +488,9 @@ https://github.com/wireshark/wireshark/releases.atom "~wireshark releases" tools
 # wordlistctl
 https://github.com/BlackArch/wordlistctl/commits/master.atom "~wordlistctl commits" tools
 https://github.com/BlackArch/wordlistctl/releases.atom "~wordlistctl releases" tools
+
+# wpa_supplicant (crux opt repo)
+https://crux.nu/gitweb/?p=ports/opt.git;a=atom;f=wpa_supplicant "~wpa_supplicant crux opt repo" tools
 
 # wpscan
 https://github.com/wpscanteam/wpscan/commits/master.atom "~wpscan commits" tools
