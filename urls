@@ -120,6 +120,10 @@ https://github.com/hashcat/hashcat/releases.atom "~hashcat releases" tools
 https://github.com/hashcat/hashcat-utils/commits/master.atom "~hashcat-utils commits" tools
 https://github.com/hashcat/hashcat-utils/releases.atom "~hashcat-utils releases" tools
 
+# hashid
+https://github.com/psypanda/hashID/commits/master.atom "~hashid commits" tools
+https://github.com/psypanda/hashID/releases.atom "~hashid releases" tools
+
 # hcxdumptool
 https://github.com/ZerBea/hcxdumptool/commits/master.atom "~hcxdumptool commits" tools
 https://github.com/ZerBea/hcxdumptool/releases.atom "~hcxdumptool releases" tools
@@ -182,6 +186,9 @@ https://sourceforge.net/projects/libmtp/rss?path=/libmtp "~libmtp releases" tool
 # libtorrent-rasterbar
 https://github.com/arvidn/libtorrent/commits/master.atom "~libtorrent-rasterbar commits" tools
 https://github.com/arvidn/libtorrent/releases.atom "~libtorrent-rasterbar releases" tools
+
+# libxcrypt2.4 (using outdated version)
+# XXX
 
 # macchanger
 https://github.com/alobbs/macchanger/commits/master.atom "~macchanger commits" tools
@@ -288,6 +295,9 @@ https://metacpan.org/feed/distribution/Net-Pcap "~p5-net-pcap releases" tools
 
 # p5-net-radius
 https://metacpan.org/feed/distribution/Net-Radius "~p5-net-radius releases" tools
+
+# p5-net-rawip
+https://metacpan.org/feed/distribution/Net-RawIP "~p5-net-rawip releases" tools
 
 # p5-pango
 https://metacpan.org/feed/distribution/Pango "~p5-pango releases" tools
@@ -434,6 +444,10 @@ https://github.com/nabla-c0d3/sslyze/releases.atom "~sslyze releases" tools
 # thc-hydra-scm
 https://github.com/vanhauser-thc/thc-hydra/commits/master.atom "~thc-hydra-scm commits" tools
 https://github.com/vanhauser-thc/thc-hydra/releases.atom "~thc-hydra releases" tools
+
+# thc-ipv6
+https://github.com/vanhauser-thc/thc-ipv6/commits/master.atom "~thc-ipv6 commits" tools
+https://github.com/vanhauser-thc/thc-ipv6/releases.atom "~thc-ipv6 releases" tools
 
 # theharvester-scm
 https://github.com/laramies/theHarvester/commits/master.atom "~theharvester-scm commits" tools
