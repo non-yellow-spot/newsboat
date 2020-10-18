@@ -373,7 +373,7 @@ https://github.com/python-mechanize/mechanize/releases.atom "~python3-mechanize 
 
 # python3-pycryptodome
 # python3-pycryptodomex
-https://github.com/Legrandin/pycryptodome/releases.atom "~pycryptodome(x) releases" tools
+https://github.com/Legrandin/pycryptodome/releases.atom "~python3-pycryptodome(x) releases" tools
 
 # python3-pyelftools
 https://github.com/eliben/pyelftools/releases.atom "~python3-pyelftools releases" tools
