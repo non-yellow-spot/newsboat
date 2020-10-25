@@ -24,7 +24,7 @@ https://github.com/OWASP/Amass/commits/master.atom "~amass commits" tools
 https://github.com/OWASP/Amass/releases.atom "~amass releases" tools
 
 # android-sdk-platform-tools-bin
-https://androidstudio.googleblog.com/feeds/posts/default "~android-sdk-platform-tools-bin" tools
+exec:~/.newsboat/extensions/android-sdk-platform-tools.sh "~android-sdk-platform-tools-bin" tools
 
 # apktool-bin
 https://github.com/iBotPeaches/Apktool/commits/master.atom "~apktool-bin commits" tools
