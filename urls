@@ -214,10 +214,6 @@ https://github.com/aircrack-ng/mdk4/commits/master.atom "~mdk4-scm commits" tool
 https://github.com/rapid7/metasploit-framework/commits/master.atom "~metasploit commits" tools
 https://github.com/rapid7/metasploit-framework/releases.atom "~metasploit releases" tools
 
-# mutt
-https://github.com/muttmua/mutt/commits/master.atom "~mutt commits" tools
-https://github.com/muttmua/mutt/releases.atom "~mutt releases" tools
-
 # ncrack
 https://github.com/nmap/ncrack/commits/master.atom "~ncrack commits" tools
 https://github.com/nmap/ncrack/releases.atom "~ncrack releases" tools
@@ -482,13 +478,6 @@ https://github.com/chinarulezzz-de/Trinity/releases.atom "~trinity-theme release
 # ttf-terminus-font
 http://www.ax86.net/?tempskin=_atom "~ttf-terminus-font releases" tools
 
-# uncrustify-scm
-https://github.com/uncrustify/uncrustify/commits/master.atom "~uncrustify-scm commits" tools
-#https://github.com/uncrustify/uncrustify/releases.atom "~uncrustify releases" tools
-
-# v4l-utils
-https://git.linuxtv.org/v4l-utils.git/atom/?h=master "~v4l-utils commits" tools
-
 # wireshark
 https://github.com/wireshark/wireshark/commits/master.atom "~wireshark commits" tools
 https://github.com/wireshark/wireshark/releases.atom "~wireshark releases" tools
@@ -507,9 +496,6 @@ https://github.com/wpscanteam/wpscan/releases.atom "~wpscan releases" tools
 # xkbswitch
 https://github.com/chinarulezzz-de/xkbswitch/commits/master.atom "~xkbswitch commits" tools
 https://github.com/chinarulezzz-de/xkbswitch/releases.atom "~xkbswitch releases" tools
-
-# xorg-font-iosevka-ttf
-https://github.com/be5invis/Iosevka/releases.atom "~xorg-font-iosevka-ttf releases" tools
 
 # zaproxy-bin
 # zaproxy-weekly-bin
