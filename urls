@@ -94,6 +94,10 @@ https://gitlab.com/libeigen/eigen/-/tags?format=atom "~eigen3 releases" tools
 https://github.com/Ettercap/ettercap/commits/master.atom "~ettercap commits" tools
 https://github.com/Ettercap/ettercap/releases.atom "~ettercap releases" tools
 
+# extra-cmake-modules
+https://github.com/KDE/extra-cmake-modules/commits/master.atom "~extra-ckame-modules commits" tools
+https://github.com/KDE/extra-cmake-modules/releases.atom "~extra-ckame-modules releases" tools
+
 # gencc
 https://github.com/chinarulezzz/gencc/commits/master.atom "~gencc commits" tools
 https://github.com/chinarulezzz/gencc/releases.atom "~gencc releases" tools
@@ -111,6 +115,10 @@ https://sourceforge.net/projects/gmtp/rss?path=/ "~gmtp releases" tools
 https://crux.nu/gitweb/?p=ports/opt.git;a=atom;f=grub2 "~grub2 (crux repo) commits" tools
 # grub2-efi (crux repo)
 https://crux.nu/gitweb/?p=ports/opt.git;a=atom;f=grub2-efi "~grub2-efi (crux repo) commits" tools
+
+# gtk-theme-nordic
+https://github.com/EliverLara/Nordic/commits/master.atom "~gtk-theme-nordic commits" tools
+https://github.com/EliverLara/Nordic/releases.atom "~gtk-theme-nordic releases" tools
 
 # hashcat
 https://github.com/hashcat/hashcat/commits/master.atom "~hashcat commits" tools
@@ -150,6 +158,18 @@ https://github.com/megadose/holehe/commits/master.atom "~holehe-scm commits" too
 https://github.com/open-mpi/hwloc/commits/master.atom "~hwloc commits" tools
 https://github.com/open-mpi/hwloc/releases.atom "~hwloc releases" tools
 
+# i3
+https://github.com/i3/i3/commits/master.atom "~i3 commits" tools
+https://github.com/i3/i3/releases.atom "~i3 releases" tools
+
+# i3status
+https://github.com/i3/i3status/commits/master.atom "~i3status commits" tools
+https://github.com/i3/i3status/releases.atom "~i3status releases" tools
+
+# inxi
+https://github.com/smxi/inxi/commits/master.atom "~inxi commits" tools
+https://github.com/smxi/inxi/releases.atom "~inxi releases" tools
+
 # ipobfuscator
 #https://github.com/chinarulezzz/IPObfuscator/commits/master.atom "~ipobfuscator commits" tools
 https://github.com/chinarulezzz/IPObfuscator/releases.atom "~ipobfuscator releases" tools
@@ -176,12 +196,54 @@ https://github.com/rezasp/joomscan/commits/master.atom "~joomscan-scm commits" t
 https://github.com/chinarulezzz-de/jukebox/commits/jukebox.atom "~jukebox commits" tools
 https://github.com/chinarulezzz-de/jukebox/releases.atom "~jukebox releases" tools
 
+# karchive
+https://github.com/KDE/karchive/commits/master.atom "~karchive commits" tools
+https://github.com/KDE/karchive/releases.atom "~karchive releases" tools
+
 # karma
 https://github.com/chinarulezzz/karma/commits/master.atom "~karma commits" tools
 https://github.com/chinarulezzz/karma/releases.atom "~karma releases" tools
 
+# kcompletion
+https://github.com/KDE/kcompletion/commits/master.atom "~kcompletion commits" tools
+https://github.com/KDE/kcompletion/releases.atom "~kcompletion releases" tools
+
+# kconfig
+https://github.com/KDE/kconfig/commits/master.atom "~kconfig commits" tools
+https://github.com/KDE/kconfig/releases.atom "~kconfig releases" tools
+
+# kcoreaddons
+https://github.com/KDE/kcoreaddons/commits/master.atom "~kcoreaddons commits" tools
+https://github.com/KDE/kcoreaddons/releases.atom "~kcoreaddons releases" tools
+
+# kguiaddons
+https://github.com/KDE/kguiaddons/commits/master.atom "~kguiaddons commits" tools
+https://github.com/KDE/kguiaddons/releases.atom "~kguiaddons releases" tools
+
+# ki18n
+https://github.com/KDE/ki18n/commits/master.atom "~ki18n commits" tools
+https://github.com/KDE/ki18n/releases.atom "~ki18n releases" tools
+
 # kismet2016 (using outdated version)
 # XXX
+
+# kitemmodels
+https://github.com/KDE/kitemmodels/commits/master.atom "~kitemmodels commits" tools
+https://github.com/KDE/kitemmodels/releases.atom "~kitemmodels releases" tools
+
+# kitemviews
+https://github.com/KDE/kitemviews/commits/master.atom "~kitemviews commits" tools
+https://github.com/KDE/kitemviews/releases.atom "~kitemviews releases" tools
+
+# krita
+https://github.com/KDE/krita/commits/master.atom "~krita commits" tools
+https://github.com/KDE/krita/releases.atom "~krita releases" tools
+
+# kwidgetsaddons
+
+# kwindowsystem
+https://github.com/KDE/kwindowsystem/commits/master.atom "~kwindowsystem commits" tools
+https://github.com/KDE/kwindowsystem/releases.atom "~kwindowsystem releases" tools
 
 # libmtp
 https://sourceforge.net/p/libmtp/code/feed/ "~libmtp commits" tools
@@ -330,6 +392,10 @@ https://github.com/zx2c4/password-store/releases.atom "~pass releases" tools
 https://github.com/gentoo/pax-utils/commits/master.atom "~pax-utils commits" tools
 https://github.com/gentoo/pax-utils/releases.atom "~pax-utils releases" tools
 
+# pcalc
+https://github.com/vapier/pcalc/commits/master.atom "~pcalc commits" tools
+https://github.com/vapier/pcalc/releases.atom "~pcalc releases" tools
+
 # pdfcrack
 https://sourceforge.net/projects/pdfcrack/rss?path=/pdfcrack "~pdfcrack releases" tools
 
@@ -471,6 +537,9 @@ https://github.com/TokTok/c-toxcore/releases.atom "~toxcore releases" tools
 https://github.com/JFreegman/toxic/commits/master.atom "~toxic commits" tools
 https://github.com/JFreegman/toxic/releases.atom "~toxic releases" tools
 
+# transset-df
+https://politepol.com/fd/C43tvN9GioyM "~transset-df releases" tools
+
 # trinity-theme
 https://github.com/chinarulezzz-de/Trinity/commits/master.atom "~trinity-theme commits" tools
 https://github.com/chinarulezzz-de/Trinity/releases.atom "~trinity-theme releases" tools
@@ -496,6 +565,10 @@ https://github.com/wpscanteam/wpscan/releases.atom "~wpscan releases" tools
 # xkbswitch
 https://github.com/chinarulezzz-de/xkbswitch/commits/master.atom "~xkbswitch commits" tools
 https://github.com/chinarulezzz-de/xkbswitch/releases.atom "~xkbswitch releases" tools
+
+# yajl
+https://github.com/lloyd/yajl/commits/master.atom "~yajl commits" tools
+https://github.com/lloyd/yajl/releases.atom "~yajl releases" tools
 
 # zaproxy-bin
 # zaproxy-weekly-bin
