@@ -7,8 +7,8 @@ https://github.com/gregkh/linux/releases.atom "~linux-stable releases" kernel
 -=[TOOLZ]=-
 
 # adwaita-qt5
-https://github.com/FedoraQt/adwaita-qt/commits/master.atom "~adwaita-qt5 commits" tools
-https://github.com/FedoraQt/adwaita-qt/releases.atom "~adwaita-qt5 releases" tools
+#https://github.com/FedoraQt/adwaita-qt/commits/master.atom "~adwaita-qt5 commits" tools
+#https://github.com/FedoraQt/adwaita-qt/releases.atom "~adwaita-qt5 releases" tools
 
 # aircrack-ng
 # aircrack-ng-scm
@@ -175,8 +175,8 @@ https://github.com/smxi/inxi/releases.atom "~inxi releases" tools
 https://github.com/chinarulezzz/IPObfuscator/releases.atom "~ipobfuscator releases" tools
 
 # irssi
-https://github.com/irssi/irssi/commits/master.atom "~irssi commits" tools
-https://github.com/irssi/irssi/releases.atom "~irssi releases" tools
+#https://github.com/irssi/irssi/commits/master.atom "~irssi commits" tools
+#https://github.com/irssi/irssi/releases.atom "~irssi releases" tools
 
 # iw
 https://git.kernel.org/pub/scm/linux/kernel/git/jberg/iw.git/atom/?h=master "~iw commits" tools
@@ -250,8 +250,8 @@ https://sourceforge.net/p/libmtp/code/feed/ "~libmtp commits" tools
 https://sourceforge.net/projects/libmtp/rss?path=/libmtp "~libmtp releases" tools
 
 # libtorrent-rasterbar
-https://github.com/arvidn/libtorrent/commits/master.atom "~libtorrent-rasterbar commits" tools
-https://github.com/arvidn/libtorrent/releases.atom "~libtorrent-rasterbar releases" tools
+#https://github.com/arvidn/libtorrent/commits/master.atom "~libtorrent-rasterbar commits" tools
+#https://github.com/arvidn/libtorrent/releases.atom "~libtorrent-rasterbar releases" tools
 
 # libxcrypt2.4 (using outdated version)
 # XXX
@@ -356,7 +356,7 @@ https://metacpan.org/feed/distribution/NetPacket "~p5-netpacket releases" tools
 https://metacpan.org/feed/distribution/Net-Pcap "~p5-net-pcap releases" tools
 
 # p5-net-radius
-https://metacpan.org/feed/distribution/Net-Radius "~p5-net-radius releases" tools
+#https://metacpan.org/feed/distribution/Net-Radius "~p5-net-radius releases" tools
 
 # p5-net-rawip
 https://metacpan.org/feed/distribution/Net-RawIP "~p5-net-rawip releases" tools
@@ -382,7 +382,7 @@ https://github.com/gw0/PadBuster/releases.atom "~padbuster releases" tools
 
 # papirus-icon-theme
 #https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/commits/master.atom "~papirus-icon-theme commits" tools
-https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/releases.atom "~papirus-icon-theme releases" tools
+#https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/releases.atom "~papirus-icon-theme releases" tools
 
 # pass
 https://github.com/zx2c4/password-store/commits/master.atom "~pass commits" tools
@@ -461,8 +461,8 @@ https://github.com/tqdm/tqdm/releases.atom "~python3-tqdm releases" tools
 https://github.com/gsnedders/python-webencodings/releases.atom "~python3-webencodings releases" tools
 
 # qbittorrent
-https://github.com/qbittorrent/qBittorrent/commits/master.atom "~qbittorrent commits" tools
-https://github.com/qbittorrent/qBittorrent/releases.atom "~qbittorrent releases" tools
+#https://github.com/qbittorrent/qBittorrent/commits/master.atom "~qbittorrent commits" tools
+#https://github.com/qbittorrent/qBittorrent/releases.atom "~qbittorrent releases" tools
 
 # qt5ct
 https://sourceforge.net/projects/qt5ct/rss?path=/ "~qt5ct releases" tools
@@ -507,6 +507,7 @@ https://github.com/nabla-c0d3/sslyze/commits/master.atom "~sslyze commits" tools
 https://github.com/nabla-c0d3/sslyze/releases.atom "~sslyze releases" tools
 
 # sylpheed
+# sylpheed-trinity
 https://github.com/jan0sch/sylpheed/commits/master.atom "~sylpheed commits" tools
 https://github.com/jan0sch/sylpheed/releases.atom "~sylpheed releases" tools
 
@@ -540,9 +541,9 @@ https://github.com/JFreegman/toxic/releases.atom "~toxic releases" tools
 # transset-df
 https://politepol.com/fd/C43tvN9GioyM "~transset-df releases" tools
 
-# trinity-theme
-https://github.com/chinarulezzz-de/Trinity/commits/master.atom "~trinity-theme commits" tools
-https://github.com/chinarulezzz-de/Trinity/releases.atom "~trinity-theme releases" tools
+# trinity-gtk-theme
+https://github.com/chinarulezzz-de/Trinity-GTK-Theme/commits/master.atom "~trinity-gtk-theme commits" tools
+https://github.com/chinarulezzz-de/Trinity-GTK-Theme/releases.atom "~trinity-gtk-theme releases" tools
 
 # ttf-terminus-font
 http://www.ax86.net/?tempskin=_atom "~ttf-terminus-font releases" tools
