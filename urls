@@ -245,6 +245,9 @@ https://github.com/KDE/krita/releases.atom "~krita releases" tools
 https://github.com/KDE/kwindowsystem/commits/master.atom "~kwindowsystem commits" tools
 https://github.com/KDE/kwindowsystem/releases.atom "~kwindowsystem releases" tools
 
+# lft
+exec:~/.newsboat/extensions/lft.sh "~lft releases" tools
+
 # libmtp
 https://sourceforge.net/p/libmtp/code/feed/ "~libmtp commits" tools
 https://sourceforge.net/projects/libmtp/rss?path=/libmtp "~libmtp releases" tools
