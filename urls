@@ -24,7 +24,7 @@ https://github.com/OWASP/Amass/commits/master.atom "~amass commits" tools
 https://github.com/OWASP/Amass/releases.atom "~amass releases" tools
 
 # android-sdk-platform-tools-bin
-exec:~/.newsboat/extensions/android-sdk-platform-tools.sh "~android-sdk-platform-tools-bin" tools
+exec:~/.newsboat/ext/android-sdk-platform-tools "~android-sdk-platform-tools-bin releases" tools
 
 # apktool-bin
 https://github.com/iBotPeaches/Apktool/commits/master.atom "~apktool-bin commits" tools
@@ -43,6 +43,12 @@ https://github.com/byt3bl33d3r/arpspoof/commits/master.atom "~arpspoof commits" 
 
 # asleap
 https://github.com/funtastix/asleap/commits/master.atom "~asleap commits (funtastix fork)" tools
+
+# aspell-ru
+exec:~/.newsboat/ext/aspell-ru "~aspell-ru releases" tools
+
+# aspell-ro
+exec:~/.newsboat/ext/aspell-ro "~aspell-ro releases" tools
 
 # bully
 https://github.com/aanarchyy/bully/commits/master.atom "~bully commits" tools
@@ -250,7 +256,7 @@ https://github.com/KDE/kwindowsystem/commits/master.atom "~kwindowsystem commits
 https://github.com/KDE/kwindowsystem/releases.atom "~kwindowsystem releases" tools
 
 # lft
-exec:~/.newsboat/extensions/lft.sh "~lft releases" tools
+exec:~/.newsboat/ext/lft "~lft releases" tools
 
 # libmtp
 https://sourceforge.net/p/libmtp/code/feed/ "~libmtp commits" tools
@@ -545,12 +551,27 @@ https://github.com/TokTok/c-toxcore/releases.atom "~toxcore releases" tools
 https://github.com/JFreegman/toxic/commits/master.atom "~toxic commits" tools
 https://github.com/JFreegman/toxic/releases.atom "~toxic releases" tools
 
+# translate-shell
+https://github.com/soimort/translate-shell/commits/develop.atom "~translate-shell commits" tools
+https://github.com/soimort/translate-shell/releases.atom "~translate-shell releases" tools
+
 # transset-df
 https://politepol.com/fd/C43tvN9GioyM "~transset-df releases" tools
 
 # trinity-gtk-theme
 https://github.com/chinarulezzz-de/Trinity-GTK-Theme/commits/master.atom "~trinity-gtk-theme commits" tools
 https://github.com/chinarulezzz-de/Trinity-GTK-Theme/releases.atom "~trinity-gtk-theme releases" tools
+
+# trinity-cursor-theme
+https://github.com/chinarulezzz-de/Trinity-Cursor-Theme/commits/master.atom "~trinity-cursor-theme commits" tools
+https://github.com/chinarulezzz-de/Trinity-Cursor-Theme/releases.atom "~trinity-cursor-theme releases" tools
+
+# trinity-extra-theme
+https://github.com/chinarulezzz-de/Trinity-Extra-Theme/commits/master.atom "~trinity-extra-theme commits" tools
+https://github.com/chinarulezzz-de/Trinity-Extra-Theme/releases.atom "~trinity-extra-theme releases" tools
+# trinity-icon-theme
+https://github.com/chinarulezzz-de/Trinity-Icon-Theme/commits/master.atom "~trinity-icon-theme commits" tools
+https://github.com/chinarulezzz-de/Trinity-Icon-Theme/releases.atom "~trinity-icon-theme releases" tools
 
 # ttf-terminus-font
 http://www.ax86.net/?tempskin=_atom "~ttf-terminus-font releases" tools
@@ -577,6 +598,10 @@ https://github.com/chinarulezzz-de/xkbswitch/releases.atom "~xkbswitch releases"
 # yajl
 https://github.com/lloyd/yajl/commits/master.atom "~yajl commits" tools
 https://github.com/lloyd/yajl/releases.atom "~yajl releases" tools
+
+# yersinia
+https://github.com/tomac/yersinia/commits/master.atom "~yersinia commits" tools
+https://github.com/tomac/yersinia/releases.atom "~yersinia releases" tools
 
 # zaproxy-bin
 # zaproxy-weekly-bin
