@@ -60,6 +60,10 @@ https://github.com/chinarulezzz/captal/releases.atom "~captal releases" tools
 https://github.com/joswr1ght/cowpatty/commits/master.atom "~cowpatty commits" tools
 https://github.com/joswr1ght/cowpatty/releases.atom "~cowpatty releases" tools
 
+# dex2jar-bin
+https://github.com/pxb1988/dex2jar/commits/2.x.atom "~dex2jar commits" tools
+https://github.com/pxb1988/dex2jar/releases.atom "~dex2jar releases" tools
+
 # dhcp-spoof
 # non-continued program.
 
