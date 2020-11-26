@@ -44,11 +44,11 @@ https://github.com/byt3bl33d3r/arpspoof/commits/master.atom "~arpspoof commits" 
 # asleap
 https://github.com/funtastix/asleap/commits/master.atom "~asleap commits (funtastix fork)" tools
 
-# aspell-ru
-exec:~/.newsboat/ext/aspell-ru "~aspell-ru releases" tools
-
 # aspell-ro
 exec:~/.newsboat/ext/aspell-ro "~aspell-ro releases" tools
+
+# aspell-ru
+exec:~/.newsboat/ext/aspell-ru "~aspell-ru releases" tools
 
 # bully
 https://github.com/aanarchyy/bully/commits/master.atom "~bully commits" tools
@@ -477,6 +477,9 @@ https://github.com/gsnedders/python-webencodings/releases.atom "~python3-webenco
 #https://github.com/qbittorrent/qBittorrent/commits/master.atom "~qbittorrent commits" tools
 #https://github.com/qbittorrent/qBittorrent/releases.atom "~qbittorrent releases" tools
 
+# qrot-scm
+https://github.com/volgk/qrot/commits/master.atom "~qrot-scm commits" tools
+
 # qt5ct
 https://sourceforge.net/projects/qt5ct/rss?path=/ "~qt5ct releases" tools
 
@@ -590,6 +593,9 @@ https://crux.nu/gitweb/?p=ports/opt.git;a=atom;f=wpa_supplicant "~wpa_supplicant
 # wpscan
 https://github.com/wpscanteam/wpscan/commits/master.atom "~wpscan commits" tools
 https://github.com/wpscanteam/wpscan/releases.atom "~wpscan releases" tools
+
+# xautolock
+exec:~/.newsboat/ext/xautolock "~xautolock releases" tools
 
 # xkbswitch
 https://github.com/chinarulezzz-de/xkbswitch/commits/master.atom "~xkbswitch commits" tools
