@@ -510,6 +510,10 @@ https://github.com/secdev/scapy/releases.atom "~scapy releases" tools
 # shellcheck-bin
 https://github.com/koalaman/shellcheck/releases.atom "~shellcheck-bin releases" tools
 
+# simplify
+https://github.com/CalebFenton/simplify/commits/master.atom "~simplify commits" tools
+https://github.com/CalebFenton/simplify/releases.atom "~simplify releases" tools
+
 # spoofcheck
 https://github.com/chinarulezzz/spoofcheck/commits/master.atom "~spoofcheck commits" tools
 https://github.com/chinarulezzz/spoofcheck/releases.atom "~spoofcheck releases" tools
