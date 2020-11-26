@@ -2,10 +2,10 @@
 set -e
 
 name=`basename $0`
-data=$(curl -Ss "https://repology.org/badge/latest-versions/$name.svg")
+data=`curl -Ss https://repology.org/badge/latest-versions/$name.svg`
 version=${data%</text>*}
 version=${version##*>}
-url=aspell.net
+url=http://tools.suckless.org/$name
 
 cat <<EOF
 <?xml version="1.0" ?>

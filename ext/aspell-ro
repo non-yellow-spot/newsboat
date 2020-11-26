@@ -1,12 +1,13 @@
 #!/bin/sh
 set -e
 
-NAME=`basename $0`
-URL="http://aspell.net"
+name=`basename $0`
+url="http://aspell.net"
 
-DATA=$(curl -Ss "https://repology.org/badge/latest-versions/$NAME.svg")
-VERSION=${DATA%</text>*}
-VERSION=${VERSION##*>}
+data=$(curl -Ss "https://repology.org/badge/latest-versions/$name.svg")
+version=${data%</text>*}
+version=${version##*>}
+url=aspell.net
 
 cat <<EOF
 <?xml version="1.0" ?>
@@ -15,15 +16,15 @@ cat <<EOF
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns="http://purl.org/rss/1.0/">
 
-<channel rdf:about="http://pwhois.org">
-<title> $NAME </title>
+<channel rdf:about="$url">
+<title> $name </title>
 <link></link>
-<description> $NAME </description>
+<description> $name </description>
 </channel>
 
 <item rdf:about="1">
-<title> $NAME v$VERSION </title>
-<link> $URL </link>
+<title> $name v$version </title>
+<link> $url </link>
 <description>
 </description>
 </item>
