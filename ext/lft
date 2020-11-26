@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
 
-name=lft
+name=`basename $0`
 data=`curl -Ss https://repology.org/badge/latest-versions/$name.svg`
 version=${data%</text>*}
 version=${version##*>}
