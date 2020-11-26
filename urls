@@ -67,8 +67,8 @@ https://github.com/joswr1ght/cowpatty/commits/master.atom "~cowpatty commits" to
 https://github.com/joswr1ght/cowpatty/releases.atom "~cowpatty releases" tools
 
 # dex2jar-bin
-https://github.com/pxb1988/dex2jar/commits/2.x.atom "~dex2jar commits" tools
-https://github.com/pxb1988/dex2jar/releases.atom "~dex2jar releases" tools
+https://github.com/pxb1988/dex2jar/commits/2.x.atom "~dex2jar-bin commits" tools
+https://github.com/pxb1988/dex2jar/releases.atom "~dex2jar-bin releases" tools
 
 # dhcp-spoof
 # non-continued program.
