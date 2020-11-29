@@ -584,8 +584,8 @@ https://github.com/chinarulezzz-de/Trinity-Icon-Theme/releases.atom "~trinity-ic
 http://www.ax86.net/?tempskin=_atom "~ttf-terminus-font releases" tools
 
 # wireshark
-https://github.com/wireshark/wireshark/commits/master.atom "~wireshark commits" tools
-https://github.com/wireshark/wireshark/releases.atom "~wireshark releases" tools
+#https://github.com/wireshark/wireshark/commits/master.atom "~wireshark commits" tools
+#https://github.com/wireshark/wireshark/releases.atom "~wireshark releases" tools
 
 # wordlistctl
 https://github.com/BlackArch/wordlistctl/commits/master.atom "~wordlistctl commits" tools
