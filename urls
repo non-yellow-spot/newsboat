@@ -96,6 +96,9 @@ https://github.com/knopwob/dunst/commits/master.atom "~dunst-scm commits" tools
 # dwm-6.0-chinarulezzz-scm
 https://github.com/chinarulezzz-de/dwm-6.0-chinarulezzz/commits/master.atom "~dwm-6.0-chinarulezzz-scm commits" tools
 
+# dwmscripts-scm
+https://github.com/chinarulezzz-de/dwmscripts/commits/master.atom "~dwmscripts-scm commits" tools
+
 # eigen3
 https://gitlab.com/libeigen/eigen/-/commits/master?format=atom "~eigen3 commits" tools
 https://gitlab.com/libeigen/eigen/-/tags?format=atom "~eigen3 releases" tools
@@ -268,6 +271,9 @@ https://sourceforge.net/projects/libmtp/rss?path=/libmtp "~libmtp releases" tool
 
 # libxcrypt2.4 (using outdated version)
 # XXX
+
+# lm_sensors
+https://crux.nu/gitweb/?p=ports/opt.git;a=atom;f=lm_sensors "~lm_sensors (lm_sensors crux repo) commits" tools
 
 # macchanger
 https://github.com/alobbs/macchanger/commits/master.atom "~macchanger commits" tools
@@ -510,6 +516,9 @@ https://github.com/secdev/scapy/releases.atom "~scapy releases" tools
 # shellcheck-bin
 https://github.com/koalaman/shellcheck/releases.atom "~shellcheck-bin releases" tools
 
+# slock
+exec:~/.newsboat/ext/slock "~slock releases" tools
+
 # spoofcheck
 https://github.com/chinarulezzz/spoofcheck/commits/master.atom "~spoofcheck commits" tools
 https://github.com/chinarulezzz/spoofcheck/releases.atom "~spoofcheck releases" tools
@@ -596,6 +605,9 @@ https://github.com/wpscanteam/wpscan/releases.atom "~wpscan releases" tools
 
 # xautolock
 exec:~/.newsboat/ext/xautolock "~xautolock releases" tools
+
+# xdotool
+exec:~/.newsboat/ext/xdotool "~xdotool releases" tools
 
 # xkbswitch
 https://github.com/chinarulezzz-de/xkbswitch/commits/master.atom "~xkbswitch commits" tools
