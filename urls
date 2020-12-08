@@ -165,7 +165,10 @@ https://github.com/hexchat/hexchat/commits/master.atom "~hexchat commits" tools
 https://github.com/hexchat/hexchat/releases.atom "~hexchat releases" tools
 
 # holehe-scm
-https://github.com/megadose/holehe/commits/master.atom "~holehe-scm commits" tools
+#https://github.com/megadose/holehe/commits/master.atom "~holehe-scm commits" tools
+
+# hostapd
+exec:~/.newsboat/ext/hostapd "~hostapd releases" tools
 
 # hwloc
 https://github.com/open-mpi/hwloc/commits/master.atom "~hwloc commits" tools
@@ -443,14 +446,8 @@ https://github.com/chinarulezzz/pixload/releases.atom "~pixload releases" tools
 https://github.com/jech/polipo/commits/master.atom "~polipo commits" tools
 https://github.com/jech/polipo/releases.atom "~polipo releases" tools
 
-# ports-pubkeys
-# TODO: remove?
-
-# ports-via-git
-# TODO: remove?
-
-# ports-via-rsync
-# TODO: remove?
+# ports-utils-extra
+https://github.com/non-yellow-spot/prt-utils-extra/commits/master.atom "~ports-utils-extra commits" tools
 
 # proxychains-ng
 https://github.com/rofl0r/proxychains-ng/commits/master.atom "~proxychains-ng commits" tools
@@ -531,6 +528,9 @@ https://github.com/droe/sslsplit/releases.atom "~sslsplit releases" tools
 https://github.com/nabla-c0d3/sslyze/commits/master.atom "~sslyze commits" tools
 https://github.com/nabla-c0d3/sslyze/releases.atom "~sslyze releases" tools
 
+# surf-2.0-chinarulezzz-scm
+https://github.com/chinarulezzz-de/surf-2.0-chinarulezzz/commits/master.atom "~surf-2.0-chinarulezzz-scm commits" tools
+
 # sylpheed
 # sylpheed-trinity
 https://github.com/jan0sch/sylpheed/commits/master.atom "~sylpheed commits" tools
@@ -587,6 +587,10 @@ https://github.com/chinarulezzz-de/Trinity-Icon-Theme/releases.atom "~trinity-ic
 
 # ttf-terminus-font
 http://www.ax86.net/?tempskin=_atom "~ttf-terminus-font releases" tools
+
+# virtualbox-bin
+# virtualbox-extpack
+exec:~/.newsboat/ext/virtualbox "~virtualbox-bin/virtualbox-extpack releases" tools
 
 # wireshark
 #https://github.com/wireshark/wireshark/commits/master.atom "~wireshark commits" tools
