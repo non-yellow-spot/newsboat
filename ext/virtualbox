@@ -5,7 +5,7 @@ name=`basename $0`
 data=`curl -Ss https://repology.org/badge/latest-versions/$name.svg`
 version=${data%</text>*}
 version=${version##*>}
-url=http://www.virtualbox.org
+url=https://www.virtualbox.org/wiki/Linux_Downloads
 
 cat <<EOF
 <?xml version="1.0" ?>
