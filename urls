@@ -446,8 +446,8 @@ https://github.com/chinarulezzz/pixload/releases.atom "~pixload releases" tools
 https://github.com/jech/polipo/commits/master.atom "~polipo commits" tools
 https://github.com/jech/polipo/releases.atom "~polipo releases" tools
 
-# ports-utils-extra
-https://github.com/non-yellow-spot/prt-utils-extra/commits/master.atom "~ports-utils-extra commits" tools
+# prt-utils-extra
+https://github.com/non-yellow-spot/prt-utils-extra/commits/master.atom "~prt-utils-extra commits" tools
 
 # proxychains-ng
 https://github.com/rofl0r/proxychains-ng/commits/master.atom "~proxychains-ng commits" tools
