@@ -256,6 +256,8 @@ https://github.com/KDE/krita/commits/master.atom "~krita commits" tools
 https://github.com/KDE/krita/releases.atom "~krita releases" tools
 
 # kwidgetsaddons
+https://github.com/KDE/kwidgetsaddons/commits/master.atom "~kwidgetsaddons commits" tools
+https://github.com/KDE/kwidgetsaddons/releases.atom "~kwidgetsaddons releases" tools
 
 # kwindowsystem
 https://github.com/KDE/kwindowsystem/commits/master.atom "~kwindowsystem commits" tools
