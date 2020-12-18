@@ -54,6 +54,9 @@ exec:~/.newsboat/ext/aspell-ru "~aspell-ru releases" tools
 https://github.com/aanarchyy/bully/commits/master.atom "~bully commits" tools
 https://github.com/aanarchyy/bully/releases.atom "~bully releases" tools
 
+# caps
+exec:~/.newsboat/ext/caps "~caps releases" tools
+
 # capstone
 https://github.com/aquynh/capstone/commits/master.atom "~capstone commits" tools
 https://github.com/aquynh/capstone/releases.atom "~capstone releases" tools
@@ -164,7 +167,7 @@ https://gitlab.com/BenjaminDobell/Heimdall/-/tags?format=atom "~heimdall release
 https://github.com/hexchat/hexchat/commits/master.atom "~hexchat commits" tools
 https://github.com/hexchat/hexchat/releases.atom "~hexchat releases" tools
 
-# holehe-scm
+#holehe-scm
 #https://github.com/megadose/holehe/commits/master.atom "~holehe-scm commits" tools
 
 # hostapd
@@ -289,12 +292,13 @@ https://github.com/alobbs/macchanger/releases.atom "~macchanger releases" tools
 https://github.com/robertdavidgraham/masscan/commits/master.atom "~masscan-scm commits" tools
 https://github.com/robertdavidgraham/masscan/releases.atom "~masscan releases" tools
 
-# mdk3-scm (using outdated version)
-# XXX
+# mdk3
+# XXX: outdated
 
+# mdk4
 # mdk4-scm
 https://github.com/aircrack-ng/mdk4/commits/master.atom "~mdk4-scm commits" tools
-#https://github.com/aircrack-ng/mdk4/releases.atom "~mdk4 releases" tools
+https://github.com/aircrack-ng/mdk4/releases.atom "~mdk4 releases" tools
 
 # metasploit
 https://github.com/rapid7/metasploit-framework/commits/master.atom "~metasploit commits" tools
@@ -356,9 +360,9 @@ https://metacpan.org/feed/distribution/Gtk2-Notify "~p5-gtk2-notify releases" to
 # p5-gtk2-trayicon
 https://metacpan.org/feed/distribution/Gtk2-TrayIcon "~p5-gtk2-trayicon releases" tools
 
-# p5-io-pty
+#p5-io-pty
 #https://metacpan.org/feed/distribution/IO-Tty "~p5-io-pty releases" tools
-# p5-ipc-run
+#p5-ipc-run
 #https://metacpan.org/feed/distribution/IPC-Run "~p5-ipc-run releases" tools
 
 # p5-module-build
@@ -412,9 +416,9 @@ https://github.com/gw0/PadBuster/releases.atom "~padbuster releases" tools
 https://github.com/zx2c4/password-store/commits/master.atom "~pass commits" tools
 https://github.com/zx2c4/password-store/releases.atom "~pass releases" tools
 
-# pax-utils
-https://github.com/gentoo/pax-utils/commits/master.atom "~pax-utils commits" tools
-https://github.com/gentoo/pax-utils/releases.atom "~pax-utils releases" tools
+#pax-utils
+#https://github.com/gentoo/pax-utils/commits/master.atom "~pax-utils commits" tools
+#https://github.com/gentoo/pax-utils/releases.atom "~pax-utils releases" tools
 
 # pcalc
 https://github.com/vapier/pcalc/commits/master.atom "~pcalc commits" tools
@@ -459,24 +463,24 @@ https://github.com/rofl0r/proxychains-ng/releases.atom "~proxychains-ng releases
 https://github.com/pulseaudio/pulseaudio/commits/master.atom "~pulseaudio commits" tools
 https://github.com/pulseaudio/pulseaudio/releases.atom "~pulseaudio releases" tools
 
-# python3-html5lib
+#python3-html5lib
 https://github.com/html5lib/html5lib-python/releases.atom "~python3-html5lib releases" tools
 
-# python3-mechanize
+#python3-mechanize
 https://github.com/python-mechanize/mechanize/releases.atom "~python3-mechanize releases" tools
 
-# python3-pycryptodome
-# python3-pycryptodomex
-https://github.com/Legrandin/pycryptodome/releases.atom "~python3-pycryptodome(x) releases" tools
+#python3-pycryptodome
+#python3-pycryptodomex
+#https://github.com/Legrandin/pycryptodome/releases.atom "~python3-pycryptodome(x) releases" tools
 
-# python3-pyelftools
-https://github.com/eliben/pyelftools/releases.atom "~python3-pyelftools releases" tools
+#python3-pyelftools
+#https://github.com/eliben/pyelftools/releases.atom "~python3-pyelftools releases" tools
 
-# python3-tqdm
-https://github.com/tqdm/tqdm/releases.atom "~python3-tqdm releases" tools
+#python3-tqdm
+#https://github.com/tqdm/tqdm/releases.atom "~python3-tqdm releases" tools
 
-# python3-webencodings
-https://github.com/gsnedders/python-webencodings/releases.atom "~python3-webencodings releases" tools
+#python3-webencodings
+#https://github.com/gsnedders/python-webencodings/releases.atom "~python3-webencodings releases" tools
 
 # qbittorrent
 #https://github.com/qbittorrent/qBittorrent/commits/master.atom "~qbittorrent commits" tools
