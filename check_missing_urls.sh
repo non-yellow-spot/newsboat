@@ -15,6 +15,6 @@ done
 # check contrib volgk
 grep 'Stamatin' --include=Pkgfile -rl /usr/ports/contrib | while read d; do
 	port="$(basename $(dirname $d))"
-	egrep -q "^# $port" urls || echo $port
+	egrep -q "^# $port " urls || egrep -q "^# $port$" urls || echo $port
 done
 
