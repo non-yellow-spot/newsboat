@@ -50,6 +50,10 @@ exec:~/.newsboat/ext/aspell-ro "~aspell-ro releases" tools
 # aspell-ru
 exec:~/.newsboat/ext/aspell-ru "~aspell-ru releases" tools
 
+# binwalk
+https://github.com/ReFirmLabs/binwalk/commits/master.atom "~binwalk commits" tools
+https://github.com/ReFirmLabs/binwalk/releases.atom "~binwalk releases" tools
+
 # bully
 https://github.com/aanarchyy/bully/commits/master.atom "~bully commits" tools
 https://github.com/aanarchyy/bully/releases.atom "~bully releases" tools
@@ -68,6 +72,10 @@ https://github.com/chinarulezzz/captal/releases.atom "~captal releases" tools
 # cowpatty
 https://github.com/joswr1ght/cowpatty/commits/master.atom "~cowpatty commits" tools
 https://github.com/joswr1ght/cowpatty/releases.atom "~cowpatty releases" tools
+
+# cramfs-tools
+https://github.com/npitre/cramfs-tools/commits/master.atom "~cramfs-tools commits" tools
+https://github.com/npitre/cramfs-tools/releases.atom "~cramfs-tools releases" tools
 
 # dex2jar-bin
 https://github.com/pxb1988/dex2jar/commits/2.x.atom "~dex2jar-bin commits" tools
@@ -269,11 +277,18 @@ https://github.com/KDE/kwindowsystem/releases.atom "~kwindowsystem releases" too
 # lft
 exec:~/.newsboat/ext/lft "~lft releases" tools
 
+# libewf-legacy
+https://github.com/libyal/libewf-legacy/commits/main.atom "~libewf-legacy commits" tools
+https://github.com/libyal/libewf-legacy/releases.atom "~libewf-legacy releases" tools
+
 # libmtp
 https://sourceforge.net/p/libmtp/code/feed/ "~libmtp commits" tools
 https://sourceforge.net/projects/libmtp/rss?path=/libmtp "~libmtp releases" tools
 
-# libtorrent-rasterbar
+# libpng12
+# XXX: outdated
+
+#libtorrent-rasterbar
 #https://github.com/arvidn/libtorrent/commits/master.atom "~libtorrent-rasterbar commits" tools
 #https://github.com/arvidn/libtorrent/releases.atom "~libtorrent-rasterbar releases" tools
 
@@ -512,12 +527,19 @@ https://github.com/threat9/routersploit/commits/master.atom "~routersploit-scm c
 https://github.com/aircrack-ng/rtl8812au/commits/v5.6.4.2.atom "~rtl8812au-dkms-scm commits" tools
 #https://github.com/aircrack-ng/rtl8812au/releases.atom "~rtl8812au-dkms releases" tools
 
+# sasquatch
+https://github.com/devttys0/sasquatch/commits/master.atom "~sasquatch commits" tools
+
 # scapy
 https://github.com/secdev/scapy/commits/master.atom "~scapy commits" tools
 https://github.com/secdev/scapy/releases.atom "~scapy releases" tools
 
 # shellcheck-bin
 https://github.com/koalaman/shellcheck/releases.atom "~shellcheck-bin releases" tools
+
+# sleuthkit
+https://github.com/sleuthkit/sleuthkit/commits/develop.atom "~sleuthkit commits" tools
+https://github.com/sleuthkit/sleuthkit/releases.atom "~sleuthkit releases" tools
 
 # slock
 exec:~/.newsboat/ext/slock "~slock releases" tools
@@ -622,6 +644,10 @@ exec:~/.newsboat/ext/xdotool "~xdotool releases" tools
 # xkbswitch
 https://github.com/chinarulezzz-de/xkbswitch/commits/master.atom "~xkbswitch commits" tools
 https://github.com/chinarulezzz-de/xkbswitch/releases.atom "~xkbswitch releases" tools
+
+# xxhash
+https://github.com/Cyan4973/xxHash/commits/dev.atom "~xxhash commits" tools
+https://github.com/Cyan4973/xxHash/releases.atom "~xxhash releases" tools
 
 # yajl
 https://github.com/lloyd/yajl/commits/master.atom "~yajl commits" tools
