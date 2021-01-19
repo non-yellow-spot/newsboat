@@ -549,9 +549,9 @@ https://github.com/chinarulezzz/spoofcheck/releases.atom "~spoofcheck releases" 
 https://github.com/droe/sslsplit/commits/develop.atom "~sslsplit commits" tools
 https://github.com/droe/sslsplit/releases.atom "~sslsplit releases" tools
 
-# sslyze
-https://github.com/nabla-c0d3/sslyze/commits/master.atom "~sslyze commits" tools
-https://github.com/nabla-c0d3/sslyze/releases.atom "~sslyze releases" tools
+#sslyze
+#https://github.com/nabla-c0d3/sslyze/commits/master.atom "~sslyze commits" tools
+#https://github.com/nabla-c0d3/sslyze/releases.atom "~sslyze releases" tools
 
 # surf-2.0-chinarulezzz-scm
 https://github.com/chinarulezzz-de/surf-2.0-chinarulezzz/commits/master.atom "~surf-2.0-chinarulezzz-scm commits" tools
