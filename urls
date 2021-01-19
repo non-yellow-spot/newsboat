@@ -345,9 +345,6 @@ https://seclists.org/rss/nmap-announce.rss "~nmap announce" tools
 # p5-cairo
 https://metacpan.org/feed/distribution/Cairo "~p5-cairo releases" tools
 
-# p5-exiftool
-https://metacpan.org/feed/distribution/Image-ExifTool "~p5-exiftool releases" tools
-
 # p5-extutils-depends
 https://metacpan.org/feed/distribution/ExtUtils-Depends "~p5-extutils-depends releases" tools
 
