@@ -157,8 +157,8 @@ https://github.com/psypanda/hashID/commits/master.atom "~hashid commits" tools
 https://github.com/psypanda/hashID/releases.atom "~hashid releases" tools
 
 # hcxdumptool
-https://github.com/ZerBea/hcxdumptool/commits/master.atom "~hcxdumptool commits" tools
-https://github.com/ZerBea/hcxdumptool/releases.atom "~hcxdumptool releases" tools
+#https://github.com/ZerBea/hcxdumptool/commits/master.atom "~hcxdumptool commits" tools
+#https://github.com/ZerBea/hcxdumptool/releases.atom "~hcxdumptool releases" tools
 
 # hcxtools
 https://github.com/ZerBea/hcxtools/commits/master.atom "~hcxtools commits" tools
