@@ -51,8 +51,8 @@ exec:~/.newsboat/ext/aspell-ro "~aspell-ro releases" tools
 exec:~/.newsboat/ext/aspell-ru "~aspell-ru releases" tools
 
 # binwalk
-https://github.com/ReFirmLabs/binwalk/commits/master.atom "~binwalk commits" tools
-https://github.com/ReFirmLabs/binwalk/releases.atom "~binwalk releases" tools
+#https://github.com/ReFirmLabs/binwalk/commits/master.atom "~binwalk commits" tools
+#https://github.com/ReFirmLabs/binwalk/releases.atom "~binwalk releases" tools
 
 # bully
 https://github.com/aanarchyy/bully/commits/master.atom "~bully commits" tools
