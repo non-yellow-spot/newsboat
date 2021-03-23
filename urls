@@ -535,8 +535,8 @@ https://github.com/secdev/scapy/releases.atom "~scapy releases" tools
 https://github.com/koalaman/shellcheck/releases.atom "~shellcheck-bin releases" tools
 
 # sleuthkit
-https://github.com/sleuthkit/sleuthkit/commits/develop.atom "~sleuthkit commits" tools
-https://github.com/sleuthkit/sleuthkit/releases.atom "~sleuthkit releases" tools
+#https://github.com/sleuthkit/sleuthkit/commits/develop.atom "~sleuthkit commits" tools
+#https://github.com/sleuthkit/sleuthkit/releases.atom "~sleuthkit releases" tools
 
 # slock
 exec:~/.newsboat/ext/slock "~slock releases" tools
