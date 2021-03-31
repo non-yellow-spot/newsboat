@@ -288,6 +288,10 @@ https://sourceforge.net/projects/libmtp/rss?path=/libmtp "~libmtp releases" tool
 # libpng12
 # XXX: outdated
 
+#libproxy
+https://github.com/libproxy/libproxy/commits.atom "~libproxy commits" tools
+https://github.com/libproxy/libproxy/releases.atom "~libproxy releases" tools
+
 #libtorrent-rasterbar
 #https://github.com/arvidn/libtorrent/commits/master.atom "~libtorrent-rasterbar commits" tools
 #https://github.com/arvidn/libtorrent/releases.atom "~libtorrent-rasterbar releases" tools
