@@ -215,6 +215,10 @@ https://git.kernel.org/pub/scm/linux/kernel/git/jberg/iw.git/atom/?h=master "~iw
 https://github.com/skylot/jadx/commits/master.atom "~jadx-bin commits" tools
 https://github.com/skylot/jadx/releases.atom "~jadx-bin releases" tools
 
+# jd-gui-bin
+https://github.com/java-decompiler/jd-gui/commits/master.atom "~jd-gui-bin commits" tools
+https://github.com/java-decompiler/jd-gui/releases.atom "~jd-gui-bin" tools
+
 # joomscan-scm
 https://github.com/rezasp/joomscan/commits/master.atom "~joomscan-scm commits" tools
 #https://github.com/rezasp/joomscan/releases.atom "~joomscan releases" tools
