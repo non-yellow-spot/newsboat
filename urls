@@ -630,8 +630,8 @@ exec:~/.newsboat/ext/virtualbox "~virtualbox-bin/virtualbox-extpack releases" to
 #https://github.com/wireshark/wireshark/releases.atom "~wireshark releases" tools
 
 # wordlistctl
-https://github.com/BlackArch/wordlistctl/commits/master.atom "~wordlistctl commits" tools
-https://github.com/BlackArch/wordlistctl/releases.atom "~wordlistctl releases" tools
+#https://github.com/BlackArch/wordlistctl/commits/master.atom "~wordlistctl commits" tools
+#https://github.com/BlackArch/wordlistctl/releases.atom "~wordlistctl releases" tools
 
 # wpa_supplicant (crux opt repo)
 https://crux.nu/gitweb/?p=ports/opt.git;a=atom;f=wpa_supplicant "~wpa_supplicant crux opt repo" tools
