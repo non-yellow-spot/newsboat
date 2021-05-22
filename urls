@@ -282,8 +282,8 @@ https://github.com/KDE/kwindowsystem/releases.atom "~kwindowsystem releases" too
 exec:~/.newsboat/ext/lft "~lft releases" tools
 
 # libewf-legacy
-https://github.com/libyal/libewf-legacy/commits/main.atom "~libewf-legacy commits" tools
-https://github.com/libyal/libewf-legacy/releases.atom "~libewf-legacy releases" tools
+#https://github.com/libyal/libewf-legacy/commits/main.atom "~libewf-legacy commits" tools
+#https://github.com/libyal/libewf-legacy/releases.atom "~libewf-legacy releases" tools
 
 # libmtp
 https://sourceforge.net/p/libmtp/code/feed/ "~libmtp commits" tools
