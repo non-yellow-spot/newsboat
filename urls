@@ -145,8 +145,8 @@ https://github.com/EliverLara/Nordic/commits/master.atom "~gtk-theme-nordic comm
 https://github.com/EliverLara/Nordic/releases.atom "~gtk-theme-nordic releases" tools
 
 # hashcat
-https://github.com/hashcat/hashcat/commits/master.atom "~hashcat commits" tools
-https://github.com/hashcat/hashcat/releases.atom "~hashcat releases" tools
+#https://github.com/hashcat/hashcat/commits/master.atom "~hashcat commits" tools
+#https://github.com/hashcat/hashcat/releases.atom "~hashcat releases" tools
 
 # hashcat-utils
 https://github.com/hashcat/hashcat-utils/commits/master.atom "~hashcat-utils commits" tools
