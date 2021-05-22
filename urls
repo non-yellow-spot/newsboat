@@ -161,8 +161,8 @@ https://github.com/psypanda/hashID/releases.atom "~hashid releases" tools
 #https://github.com/ZerBea/hcxdumptool/releases.atom "~hcxdumptool releases" tools
 
 # hcxtools
-https://github.com/ZerBea/hcxtools/commits/master.atom "~hcxtools commits" tools
-https://github.com/ZerBea/hcxtools/releases.atom "~hcxtools releases" tools
+#https://github.com/ZerBea/hcxtools/commits/master.atom "~hcxtools commits" tools
+#https://github.com/ZerBea/hcxtools/releases.atom "~hcxtools releases" tools
 
 # hcxtools3 (using outdated version)
 # XXX
