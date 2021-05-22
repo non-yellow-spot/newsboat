@@ -182,8 +182,8 @@ https://github.com/hexchat/hexchat/releases.atom "~hexchat releases" tools
 exec:~/.newsboat/ext/hostapd "~hostapd releases" tools
 
 # hwloc
-https://github.com/open-mpi/hwloc/commits/master.atom "~hwloc commits" tools
-https://github.com/open-mpi/hwloc/releases.atom "~hwloc releases" tools
+#https://github.com/open-mpi/hwloc/commits/master.atom "~hwloc commits" tools
+#https://github.com/open-mpi/hwloc/releases.atom "~hwloc releases" tools
 
 # i3
 https://github.com/i3/i3/commits/master.atom "~i3 commits" tools
