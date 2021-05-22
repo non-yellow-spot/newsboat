@@ -510,7 +510,7 @@ https://github.com/python-mechanize/mechanize/releases.atom "~python3-mechanize 
 https://github.com/volgk/qrot/commits/master.atom "~qrot-scm commits" tools
 
 # qt5ct
-https://sourceforge.net/projects/qt5ct/rss?path=/ "~qt5ct releases" tools
+#https://sourceforge.net/projects/qt5ct/rss?path=/ "~qt5ct releases" tools
 
 # qt5-styleplugins
 https://github.com/qt/qtstyleplugins/commits/master.atom "~qt5-styleplugins commits" tools
