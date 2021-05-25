@@ -20,8 +20,8 @@ https://github.com/bassdr/alsaequal/commits/master.atom "~alsaequal commits" too
 https://github.com/bassdr/alsaequal/releases.atom "~alsaequal releases" tools
 
 # amass
-https://github.com/OWASP/Amass/commits/master.atom "~amass commits" tools
-https://github.com/OWASP/Amass/releases.atom "~amass releases" tools
+#https://github.com/OWASP/Amass/commits/master.atom "~amass commits" tools
+#https://github.com/OWASP/Amass/releases.atom "~amass releases" tools
 
 # android-sdk-platform-tools-bin
 exec:~/.newsboat/ext/android-sdk-platform-tools "~android-sdk-platform-tools-bin releases" tools
