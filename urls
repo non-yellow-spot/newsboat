@@ -517,8 +517,8 @@ https://github.com/qt/qtstyleplugins/commits/master.atom "~qt5-styleplugins comm
 https://github.com/qt/qtstyleplugins/releases.atom "~qt5-styleplugins releases" tools
 
 # radare2
-https://github.com/radareorg/radare2/commits/master.atom "~radare2 commits" tools
-https://github.com/radareorg/radare2/releases.atom "~radare2 releases" tools
+#https://github.com/radareorg/radare2/commits/master.atom "~radare2 commits" tools
+#https://github.com/radareorg/radare2/releases.atom "~radare2 releases" tools
 
 # reaver-wps-t6x-scm
 https://github.com/t6x/reaver-wps-fork-t6x/commits/master.atom "~reaver-wps-t6x-scm commits" tools
