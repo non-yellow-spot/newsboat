@@ -350,6 +350,10 @@ https://github.com/nmap/nmap/commits/master.atom "~nmap-scm commits" tools
 https://seclists.org/rss/nmap-announce.rss "~nmap announce" tools
 # XXX: nonexistent: https://github.com/nmap/nmap/releases.atom "~nmap releases" tools
 
+#openexr
+https://github.com/AcademySoftwareFoundation/openexr/commits/master.atom "~openexr commits" tools
+https://github.com/AcademySoftwareFoundation/openexr/releases.atom "~openexr releases" tools
+
 # p5-cairo
 https://metacpan.org/feed/distribution/Cairo "~p5-cairo releases" tools
 
