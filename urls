@@ -193,6 +193,10 @@ https://github.com/i3/i3/releases.atom "~i3 releases" tools
 https://github.com/i3/i3status/commits/master.atom "~i3status commits" tools
 https://github.com/i3/i3status/releases.atom "~i3status releases" tools
 
+# imath
+https://github.com/AcademySoftwareFoundation/Imath/commits/master.atom "~imath commits" tools
+https://github.com/AcademySoftwareFoundation/Imath/releases.atom "~imath releases" tools
+
 # inxi
 https://github.com/smxi/inxi/commits/master.atom "~inxi commits" tools
 https://github.com/smxi/inxi/releases.atom "~inxi releases" tools
